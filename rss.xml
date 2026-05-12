@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
 <channel>
-  <title>AI 早报播客</title>
+  <title>晨间 AI 简报</title>
   <link>https://github.com/unStone/ai-daily-podcast</link>
   <language>zh-cn</language>
   <copyright>&#169; 2026 AI Daily Podcast</copyright>
   <itunes:author>ssstone</itunes:author>
-  <itunes:summary>每日AI领域重要动态，开车时收听的资讯播客。</itunes:summary>
-  <description>每天早上8:30更新，筛选3-5条重要的AI新闻。本节目内容来源于公开报道，仅供参考，不构成任何投资、职业或法律建议。</description>
+  <itunes:summary>每天早上，用10分钟听懂AI世界。筛选重要AI新闻与论文，分析实际应用场景。</itunes:summary>
+  <description>每天早上，用10分钟听懂AI世界。筛选重要AI新闻，深度解读重要论文，并分析其实际应用场景。本节目内容来源于公开报道，仅供参考，不构成任何投资、职业或法律建议。</description>
   <itunes:owner>
     <itunes:name>ssstone</itunes:name>
     <itunes:email>386159234@qq.com</itunes:email>
   </itunes:owner>
   <itunes:image href="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/cover.png"/>
-  <itunes:category text="Technology"/>
+  <itunes:category text="Technology"><itunes:category text="Podcasting"/></itunes:category>
   <itunes:explicit>false</itunes:explicit>
   <item>
     <title>AI 早报 - 2026年5月12日</title>
