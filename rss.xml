@@ -5,19 +5,19 @@
   <link>https://github.com/unStone/ai-daily-podcast</link>
   <language>zh-cn</language>
   <copyright>&#169; 2026 AI Daily Podcast</copyright>
-  <itunes:author>AI 早报</itunes:author>
+  <itunes:author>ssstone</itunes:author>
   <itunes:summary>每日AI领域重要动态，开车时收听的资讯播客。</itunes:summary>
   <description>每天早上8:30更新，筛选3-5条最重要的AI新闻，用口语化方式讲解，适合开车、运动、做家务时收听。</description>
   <itunes:owner>
-    <itunes:name>AI 早报</itunes:name>
-    <itunes:email>podcast@example.com</itunes:email>
+    <itunes:name>ssstone</itunes:name>
+    <itunes:email>386159234@qq.com</itunes:email>
   </itunes:owner>
   <itunes:image href="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/cover.png"/>
   <itunes:category text="Technology"/>
   <itunes:explicit>false</itunes:explicit>
   <item>
     <title>AI 早报 - 2026年5月12日</title>
-    <itunes:author>AI 早报</itunes:author>
+    <itunes:author>ssstone</itunes:author>
     <description>今天的重点：OpenAI信任危机全面爆发、思科预测2027年AI将构建大多数产品、Google报告首个AI寻找零日漏洞案例、Anthropic与宗教领袖对话AI伦理。</description>
     <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-05-12.mp3" length="3774873" type="audio/mpeg"/>
     <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-05-12</guid>
@@ -27,7 +27,7 @@
   </item>
   <item>
     <title>AI 早报 - 2026年5月12日</title>
-    <itunes:author>AI 早报</itunes:author>
+    <itunes:author>ssstone</itunes:author>
     <description>OpenAI信任危机爆发、思科预测AI将构建大多数产品、Google发现首个AI零日漏洞案例、Anthropic与宗教领袖对话AI伦理。</description>
     <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-05-12.mp3" length="3711888" type="audio/mpeg"/>
     <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-05-12</guid>
