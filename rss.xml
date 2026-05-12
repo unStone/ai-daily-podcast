@@ -25,5 +25,16 @@
     <itunes:duration>10:18</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
   </item>
+  <item>
+    <title>AI 早报 - 2026年5月12日</title>
+    <itunes:author>AI 早报</itunes:author>
+    <description>OpenAI信任危机爆发、思科预测AI将构建大多数产品、Google发现首个AI零日漏洞案例、Anthropic与宗教领袖对话AI伦理。</description>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-05-12.mp3" length="3711888" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-05-12</guid>
+    <pubDate>Tue, 12 May 2026 08:30:00 +0800</pubDate>
+    <itunes:duration>10:18</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+
 </channel>
 </rss>
