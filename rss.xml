@@ -15,16 +15,5 @@
   <itunes:image href="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/cover.png"/>
   <itunes:category text="Technology"><itunes:category text="Podcasting"/></itunes:category>
   <itunes:explicit>false</itunes:explicit>
-    <item>
-    <title>晨间AI简报 - 2026年5月13日</title>
-    <itunes:author>ssstone</itunes:author>
-    <description>今日AI动态：谷歌发布黑客滥用AI报告，OpenAI向欧盟开放网络安全模型，小米MiMo模型Token计划，京东AI试穿功能，美国商务部删除AI模型安全测试协议</description>
-    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-05-13.mp3" length="1575120" type="audio/mpeg"/>
-    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-05-13</guid>
-    <pubDate>Wed, 13 May 2026 08:30:00 +0800</pubDate>
-    <itunes:duration>3:16</itunes:duration>
-    <itunes:explicit>false</itunes:explicit>
-  </item>
-
-</channel>
+    </channel>
 </rss>
