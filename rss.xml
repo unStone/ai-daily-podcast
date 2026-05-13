@@ -15,37 +15,5 @@
   <itunes:image href="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/cover.png"/>
   <itunes:category text="Technology"><itunes:category text="Podcasting"/></itunes:category>
   <itunes:explicit>false</itunes:explicit>
-  <item>
-    <title>AI 早报 - 2026年5月12日</title>
-    <itunes:author>ssstone</itunes:author>
-    <description>今天的重点：OpenAI信任危机全面爆发、思科预测2027年AI将构建大多数产品、Google报告首个AI寻找零日漏洞案例、Anthropic与宗教领袖对话AI伦理。</description>
-    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-05-12.mp3" length="3774873" type="audio/mpeg"/>
-    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-05-12</guid>
-    <pubDate>Mon, 12 May 2026 08:30:00 +0800</pubDate>
-    <itunes:duration>10:18</itunes:duration>
-    <itunes:explicit>false</itunes:explicit>
-  </item>
-  <item>
-    <title>AI 早报 - 2026年5月12日</title>
-    <itunes:author>ssstone</itunes:author>
-    <description>OpenAI信任危机爆发、思科预测AI将构建大多数产品、Google发现首个AI零日漏洞案例、Anthropic与宗教领袖对话AI伦理。</description>
-    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-05-12.mp3" length="3711888" type="audio/mpeg"/>
-    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-05-12</guid>
-    <pubDate>Tue, 12 May 2026 08:30:00 +0800</pubDate>
-    <itunes:duration>10:18</itunes:duration>
-    <itunes:explicit>false</itunes:explicit>
-  </item>
-
-  <item>
-    <title>晨间AI简报 - 2026年5月13日</title>
-    <itunes:author>ssstone</itunes:author>
-    <description>今日AI动态：谷歌报告黑客滥用AI工具；OpenAI向欧盟开放GPT-5.5-Cyber；小米MiMo发放近80万亿Token；京东AI试穿上线；美国商务部删除AI模型安全测试协议。</description>
-    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-05-13.mp3" length="2249067" type="audio/mpeg"/>
-    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-05-13</guid>
-    <pubDate>Wed, 13 May 2026 08:30:00 +0800</pubDate>
-    <itunes:duration>5:32</itunes:duration>
-    <itunes:explicit>false</itunes:explicit>
-  </item>
-
-</channel>
+  </channel>
 </rss>
