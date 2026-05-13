@@ -26,5 +26,16 @@
     <itunes:explicit>false</itunes:explicit>
   </item>
 
+  <item>
+    <title>晨间AI简报 - 2026年5月14日</title>
+    <itunes:author>ssstone</itunes:author>
+    <description>Meta推出私密AI聊天、Amazon集成Alexa购物助手、Google改造Android AI、Apple可能开放App Store给AI代理；论文解读：KV-Fold长上下文推理、Learning Fast and Slow持续学习框架</description>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-05-14.mp3" length="7315267" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-05-14</guid>
+    <pubDate>Thu, 14 May 2026 08:30:00 +0800</pubDate>
+    <itunes:duration>5:05</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+
 </channel>
 </rss>
