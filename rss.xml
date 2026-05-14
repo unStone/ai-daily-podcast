@@ -37,5 +37,16 @@
     <itunes:explicit>false</itunes:explicit>
   </item>
 
+  <item>
+    <title>晨间AI简报 - 2026年05月15日</title>
+    <itunes:author>ssstone</itunes:author>
+    <description>AI每日早报：Anthropic与盖茨基金会达成2亿美元合作；微软研究显示前沿AI模型在多轮文档编辑中平均损坏25%内容；Claude Code推出任务执行与评估分离功能；Google Gemma 4发布多令牌预测草稿器实现3倍加速。论文解读：Negation Neglect揭示模型学习否定句的失败；Harnessing Agentic Evolution提出元智能体编辑进化框架。</description>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-05-15.mp3" length="1924676" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-05-15</guid>
+    <pubDate>Fri, 15 May 2026 08:30:00 +0800</pubDate>
+    <itunes:duration>05:26</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+
 </channel>
 </rss>
