@@ -48,5 +48,16 @@
     <itunes:explicit>false</itunes:explicit>
   </item>
 
+  <item>
+    <title>晨间AI简报 - 2026年5月16日</title>
+    <itunes:author>ssstone</itunes:author>
+    <description>OpenAI金融功能与Codex移动端上线、Google DeepMind AI指针研究、Runway世界模型、OpenDeepThink并行推理、FutureSim智能体评估</description>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-05-16.mp3" length="2166140" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-05-16</guid>
+    <pubDate>Sat, 16 May 2026 08:30:00 +0800</pubDate>
+    <itunes:duration>6:08</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+
 </channel>
 </rss>
