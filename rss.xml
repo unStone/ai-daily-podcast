@@ -59,5 +59,16 @@
     <itunes:explicit>false</itunes:explicit>
   </item>
 
+  <item>
+    <title>晨间AI简报 - 2026年5月17日</title>
+    <itunes:author>ssstone</itunes:author>
+    <description>OpenAI人事变动；arXiv新规；个人理财工具；Cerebras上市；两篇强化学习与推理论文解读</description>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-05-17.mp3" length="3879699" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-05-17</guid>
+    <pubDate>Sun, 17 May 2026 08:30:00 +0800</pubDate>
+    <itunes:duration>08:04</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+
 </channel>
 </rss>
