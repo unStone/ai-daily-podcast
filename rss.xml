@@ -70,5 +70,16 @@
     <itunes:explicit>false</itunes:explicit>
   </item>
 
+  <item>
+    <title>晨间AI简报 - 2026年5月18日</title>
+    <itunes:author>ssstone</itunes:author>
+    <description>今天是5月18日的AI早报，涵盖OpenAI与马耳他合作、OpenAI个人金融工具、arXiv新规、Recursive Superintelligence融资，以及OpenDeepThink论文解读。</description>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-05-18.mp3" length="1693296" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-05-18</guid>
+    <pubDate>Mon, 18 May 2026 08:30:00 +0800</pubDate>
+    <itunes:duration>4:42</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+
 </channel>
 </rss>
