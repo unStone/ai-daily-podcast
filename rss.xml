@@ -81,5 +81,16 @@
     <itunes:explicit>false</itunes:explicit>
   </item>
 
+  <item>
+    <title>晨间AI简报 - 2026年5月19日</title>
+    <itunes:author>ssstone</itunes:author>
+    <description>AI早报播客：马斯克起诉OpenAI案结果，Anthropic收购，亚马逊Alexa+新功能，ArXiv新政策，以及VLA策略蒸馏和AI智能体记忆论文解读。</description>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-05-19.mp3" length="3622563" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-05-19</guid>
+    <pubDate>Tue, 19 May 2026 08:30:00 +0800</pubDate>
+    <itunes:duration>8:42</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+
 </channel>
 </rss>
