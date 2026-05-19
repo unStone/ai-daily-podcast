@@ -103,5 +103,16 @@
     <itunes:explicit>false</itunes:explicit>
   </item>
 
+  <item>
+    <title>晨间AI简报 - 2026年5月19日</title>
+    <itunes:author>ssstone</itunes:author>
+    <description>AI动态：Google SynthID被多家采用，OpenAI Parameter Golf竞赛结果，OpenAI与Dell合作，以及DashAttention和Predictable Confabulations论文解读</description>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-05-20.mp3" length="1859184" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-05-20</guid>
+    <pubDate>Wed, 20 May 2026 08:30:00 +0800</pubDate>
+    <itunes:duration>5:10</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+
 </channel>
 </rss>
