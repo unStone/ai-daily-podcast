@@ -114,5 +114,16 @@
     <itunes:explicit>false</itunes:explicit>
   </item>
 
+  <item>
+    <title>晨间AI简报 - 2026-05-20</title>
+    <itunes:author>ssstone</itunes:author>
+    <description>Google I/O 2026大量AI发布；OpenAI推出图像来源检测；SynthID被更多公司采用；美国深度伪造打击法案。论文解读：DashAttention自适应稀疏注意力、大语言模型事实性回忆预测。</description>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-05-20.mp3" length="1700928" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-05-20</guid>
+    <pubDate>Wed, 20 May 2026 08:30:00 +0800</pubDate>
+    <itunes:duration>4:43</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+
 </channel>
 </rss>
