@@ -125,5 +125,16 @@
     <itunes:explicit>false</itunes:explicit>
   </item>
 
+  <item>
+    <title>晨间AI简报 - 2026年5月21日</title>
+    <itunes:author>ssstone</itunes:author>
+    <description>Cerebras芯片运行万亿参数模型速度破纪录；Google搜索框25年来首次重新设计；Corti医学语音转文本准确率超OpenAI 93%；Anthropic收购Stainless；论文解读：视觉语言模型感知与推理解耦训练</description>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-05-21.mp3" length="1884816" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-05-21</guid>
+    <pubDate>Thu, 21 May 2026 08:30:00 +0800</pubDate>
+    <itunes:duration>5:14</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+
 </channel>
 </rss>
