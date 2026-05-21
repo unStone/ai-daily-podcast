@@ -136,5 +136,16 @@
     <itunes:explicit>false</itunes:explicit>
   </item>
 
+  <item>
+    <title>晨间AI简报 - 2026年05月22日</title>
+    <itunes:author>ssstone</itunes:author>
+    <description>OpenAI模型推翻80年数学猜想；Hark融资7亿美元；特朗普推迟AI安全行政令；Spotify与环球音乐AI协议；深度研究新基准与网页Agent加速论文解读。</description>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-05-22.mp3" length="2155680" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-05-22</guid>
+    <pubDate>Fri, 22 May 2026 08:30:00 +0800</pubDate>
+    <itunes:duration>5:59</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+
 </channel>
 </rss>
