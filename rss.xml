@@ -158,5 +158,16 @@
     <itunes:explicit>false</itunes:explicit>
   </item>
 
+  <item>
+    <title>晨间AI简报 - 2026年5月25日</title>
+    <itunes:author>ssstone</itunes:author>
+    <description>每日AI资讯播客，包含4条新闻和2条论文解读：Hark获得7亿美元A轮融资、Google Android XR智能眼镜原型、Amazon Bee可穿戴设备、Spotify与环球音乐AI合作、MOSS智能体自我进化论文、DeltaBox毫秒级沙箱检查点论文。</description>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-05-24.mp3" length="1766448" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-05-24</guid>
+    <pubDate>Sun, 24 May 2026 08:30:00 +0800</pubDate>
+    <itunes:duration>04:54</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+
 </channel>
 </rss>
