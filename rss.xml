@@ -212,5 +212,16 @@
     <itunes:explicit>false</itunes:explicit>
   </item>
 
+  <item>
+    <title>AI 早报 - 2026年05月24日</title>
+    <itunes:author>ssstone</itunes:author>
+    <description>晨间AI简报 2026-05-24</description>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-05-24.mp3" length="2295216" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-05-24</guid>
+    <pubDate>Sun, 24 May 2026 08:30:00 +0800</pubDate>
+    <itunes:duration>06:22</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+
 </channel>
 </rss>
