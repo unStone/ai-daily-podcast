@@ -179,5 +179,16 @@
 
   
 
+  <item>
+    <title>AI 早报 - 2026年05月20日</title>
+    <itunes:author>ssstone</itunes:author>
+    <description>晨间AI简报 2026-05-20</description>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-05-20.mp3" length="1700928" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-05-20</guid>
+    <pubDate>Wed, 20 May 2026 08:30:00 +0800</pubDate>
+    <itunes:duration>04:43</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+
 </channel>
 </rss>
