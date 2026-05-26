@@ -245,5 +245,16 @@
     <itunes:explicit>false</itunes:explicit>
   </item>
 
+  <item>
+    <title>AI 早报 - 2026年05月27日</title>
+    <itunes:author>ssstone</itunes:author>
+    <description>今天是5月27日，以下是今天的AI动态，共4条新闻加2条论文解读，预计10分钟左右。  第一条，关于OpenAI模型在数学领域的突破。  OpenAI在官方博客发布，一个OpenAI模型解决了离散几何中存在了80年的单位距离问题，反驳了该领域的</description>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-05-27.mp3" length="2046960" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-05-27</guid>
+    <pubDate>Wed, 27 May 2026 08:30:00 +0800</pubDate>
+    <itunes:duration>05:41</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+
 </channel>
 </rss>
