@@ -256,5 +256,16 @@
     <itunes:explicit>false</itunes:explicit>
   </item>
 
+  <item>
+    <title>AI 早报 - 2026年05月28日</title>
+    <itunes:author>ssstone</itunes:author>
+    <description>今天是5月28日，以下是今天的AI动态，共4条新闻加2条论文解读，预计6分钟。  第一条，关于AI编程公司Cognition的融资消息。 AI编程初创公司Cognition宣布完成10亿美元融资，投前估值达到250亿美元。该公司表示，其年化收入运行率?</description>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-05-28.mp3" length="2009664" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-05-28</guid>
+    <pubDate>Thu, 28 May 2026 08:30:00 +0800</pubDate>
+    <itunes:duration>05:34</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+
 </channel>
 </rss>
