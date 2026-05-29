@@ -278,5 +278,16 @@
     <itunes:explicit>false</itunes:explicit>
   </item>
 
+  <item>
+    <title>AI 早报 - 2026年05月30日</title>
+    <itunes:author>ssstone</itunes:author>
+    <description>今天是5月30日，以下是今天的AI动态，共三条新闻加两条论文解读，预计八分钟。  第一条，关于Anthropic发布Claude Opus 4.8。  Anthropic在5月28日发布了Claude Opus 4.8。这是Opus系列的升级版本，在编码能力、agentic任务和专业知识工作等?</description>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-05-30.mp3" length="1649376" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-05-30</guid>
+    <pubDate>Sat, 30 May 2026 08:30:00 +0800</pubDate>
+    <itunes:duration>04:34</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+
 </channel>
 </rss>
