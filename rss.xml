@@ -289,5 +289,16 @@
     <itunes:explicit>false</itunes:explicit>
   </item>
 
+  <item>
+    <title>AI 早报 - 2026年06月01日</title>
+    <itunes:author>ssstone</itunes:author>
+    <description>今天是6月1日，以下是今天的AI动态，共4条新闻加2条论文解读，预计7分钟。  第一条，关于软银在欧洲的数据中心投资。 软银集团宣布将在法国投资至多750亿欧元建设数据中心。这笔资金将用于在法国境内新建大型AI基础设施，</description>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-06-01.mp3" length="1960992" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-06-01</guid>
+    <pubDate>Mon, 01 Jun 2026 08:30:00 +0800</pubDate>
+    <itunes:duration>05:26</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+
 </channel>
 </rss>
