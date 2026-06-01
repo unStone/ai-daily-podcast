@@ -300,5 +300,16 @@
     <itunes:explicit>false</itunes:explicit>
   </item>
 
+  <item>
+    <title>AI 早报 - 2026年06月02日</title>
+    <itunes:author>ssstone</itunes:author>
+    <description>今天是6月2日，以下是今天的AI动态，共4条新闻加2条论文解读，预计6分钟。  第一条，关于Alphabet的融资计划。 Google母公司Alphabet在6月1日发布公告，计划通过股权融资筹集800亿美元，用于扩展人工智能基础设施和计算能力。这??</description>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-06-02.mp3" length="1042704" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-06-02</guid>
+    <pubDate>Tue, 02 Jun 2026 08:30:00 +0800</pubDate>
+    <itunes:duration>02:53</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+
 </channel>
 </rss>
