@@ -311,5 +311,16 @@
     <itunes:explicit>false</itunes:explicit>
   </item>
 
+  <item>
+    <title>AI 早报 - 2026年06月03日</title>
+    <itunes:author>ssstone</itunes:author>
+    <description>今天是6月3日，以下是今天的AI动态，共4条新闻加1条论文解读，预计8分钟。  第一条，关于微软发布自研高级推理模型MAI-Thinking-1。  在Build 2026开发者大会上，微软发布了旗下首款高级推理模型MAI-Thinking-1。该模型拥有三百五十??</description>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-06-03.mp3" length="1818000" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-06-03</guid>
+    <pubDate>Wed, 03 Jun 2026 08:30:00 +0800</pubDate>
+    <itunes:duration>05:03</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+
 </channel>
 </rss>
