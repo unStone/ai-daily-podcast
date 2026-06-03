@@ -322,5 +322,16 @@
     <itunes:explicit>false</itunes:explicit>
   </item>
 
+  <item>
+    <title>AI 早报 - 2026年06月04日</title>
+    <itunes:author>ssstone</itunes:author>
+    <description>今天是6月4日，以下是今天的AI动态，共4条新闻加1条论文解读，预计6分钟。  第一条，关于OpenAI的Codex工具更新。 OpenAI发布了6个面向特定职业的Codex插件。这些插件分别针对数据分析、创意生产、销售、产品设计、股权投资和投</description>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-06-04.mp3" length="1415232" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-06-04</guid>
+    <pubDate>Thu, 04 Jun 2026 08:30:00 +0800</pubDate>
+    <itunes:duration>03:55</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+
 </channel>
 </rss>
