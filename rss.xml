@@ -344,5 +344,16 @@
     <itunes:explicit>false</itunes:explicit>
   </item>
 
+  <item>
+    <title>AI 早报 - 2026年06月09日</title>
+    <itunes:author>ssstone</itunes:author>
+    <description>今天是6月9日，以下是今天的AI动态，共4条新闻加2条论文解读，预计10分钟。  第一条，关于DeepSeek和OpenAI模型的对比测试。 RuntimeWire发布了一篇对比测试文章。测试结果显示，DeepSeek V4 Pro在指令遵循、schema匹配和边缘案例处理上</description>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-06-09.mp3" length="1311552" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-06-09</guid>
+    <pubDate>Tue, 09 Jun 2026 08:30:00 +0800</pubDate>
+    <itunes:duration>03:38</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+
 </channel>
 </rss>
