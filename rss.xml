@@ -355,5 +355,16 @@
     <itunes:explicit>false</itunes:explicit>
   </item>
 
+  <item>
+    <title>AI 早报 - 2026年06月10日</title>
+    <itunes:author>ssstone</itunes:author>
+    <description>今天是6月10日，以下是今天的AI动态，共4条新闻加2条论文解读，预计8分钟。  第一条，关于Anthropic发布新模型。  Anthropic在6月9日发布了Claude Fable 5。这是该公司首个向公众开放的Mythos-class模型。Anthropic表示，该模型配备了新的??</description>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-06-10.mp3" length="1694736" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-06-10</guid>
+    <pubDate>Wed, 10 Jun 2026 08:30:00 +0800</pubDate>
+    <itunes:duration>04:42</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+
 </channel>
 </rss>
