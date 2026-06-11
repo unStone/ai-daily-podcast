@@ -377,5 +377,16 @@
     <itunes:explicit>false</itunes:explicit>
   </item>
 
+  <item>
+    <title>AI 早报 - 2026年06月12日</title>
+    <itunes:author>ssstone</itunes:author>
+    <description>今天是6月12日，以下是今天的AI动态，共4条新闻和2条论文解读，预计6分钟。  第一条，关于Google年度开发者大会。Google在I/O 2026大会上宣布进入Agentic Gemini时代，Gemini应用将提供更主动的二十四小时帮助，能够自主执行更多任务?</description>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-06-12.mp3" length="0" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-06-12</guid>
+    <pubDate>Fri, 12 Jun 2026 08:30:00 +0800</pubDate>
+    <itunes:duration>10:00</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+
 </channel>
 </rss>
