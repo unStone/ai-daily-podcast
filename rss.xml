@@ -388,5 +388,16 @@
     <itunes:explicit>false</itunes:explicit>
   </item>
 
+  <item>
+    <title>AI 早报 - 2026年07月24日</title>
+    <itunes:author>ssstone</itunes:author>
+    <description>今天是7月24日，以下是今天的AI动态，共4条新闻和2条论文解读，预计6分钟。  第一条，关于AMD的人工智能硬件。 AMD在旧金山的Advancing AI大会上发布了名为Helios的机架级人工智能系统。 该公司表示，Helios将部署在千兆瓦级别，供</description>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-07-24.mp3" length="1713024" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-07-24</guid>
+    <pubDate>Fri, 24 Jul 2026 08:30:00 +0800</pubDate>
+    <itunes:duration>04:45</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+
 </channel>
 </rss>
