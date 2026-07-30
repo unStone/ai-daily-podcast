@@ -399,5 +399,16 @@
     <itunes:explicit>false</itunes:explicit>
   </item>
 
+  <item>
+    <title>AI 早报 - 2026年07月31日</title>
+    <itunes:author>ssstone</itunes:author>
+    <description>今天是7月31日，以下是今天的AI动态，共3条新闻和2条论文解读，预计5到6分钟。  第一条，关于OpenAI调整GPT-5.6的定价策略。OpenAI在7月30号发布了一篇博客，标题是《Advancing the price-performance frontier with GPT-5.6》。文章提到，GPT-5.6的</description>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-07-31.mp3" length="1553760" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-07-31</guid>
+    <pubDate>Fri, 31 Jul 2026 08:30:00 +0800</pubDate>
+    <itunes:duration>04:18</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+
 </channel>
 </rss>
