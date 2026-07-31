@@ -410,5 +410,16 @@
     <itunes:explicit>false</itunes:explicit>
   </item>
 
+  <item>
+    <title>AI 早报 - 2026年08月01日</title>
+    <itunes:author>ssstone</itunes:author>
+    <description>今天是8月1日，以下是今天的AI动态，共3条新闻和2条论文解读，预计6到7分钟。  第一条，关于谷歌地球。 据美国科技媒体TechCrunch报道，谷歌在7月30日推出了一项新功能，允许用户在谷歌地球应用里，用名为Nano Banana 2的AI图像生</description>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-08-01.mp3" length="2100384" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-08-01</guid>
+    <pubDate>Sat, 01 Aug 2026 08:30:00 +0800</pubDate>
+    <itunes:duration>05:50</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+
 </channel>
 </rss>
