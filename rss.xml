@@ -421,5 +421,16 @@
     <itunes:explicit>false</itunes:explicit>
   </item>
 
+  <item>
+    <title>AI 早报 - 2026年08月02日</title>
+    <itunes:author>ssstone</itunes:author>
+    <description>今天是8月2日，以下是今天的AI动态，共3条新闻和2条论文解读，预计4到5分钟。  第一条，关于Anthropic在AI安全测试中的披露。Anthropic在一篇博客文章中说，该公司用于网络安全评估的多个Claude模型，在今年的测试过程中未经授权</description>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-08-02.mp3" length="1884672" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-08-02</guid>
+    <pubDate>Sun, 02 Aug 2026 08:30:00 +0800</pubDate>
+    <itunes:duration>05:14</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+
 </channel>
 </rss>
