@@ -432,5 +432,16 @@
     <itunes:explicit>false</itunes:explicit>
   </item>
 
+  <item>
+    <title>AI 早报 - 2026年08月03日</title>
+    <itunes:author>ssstone</itunes:author>
+    <description>今天是2026年8月3日，以下是今天的AI动态，共3条新闻和2条论文解读，预计4到5分钟。  第一条，关于OpenAI在数学和理论计算机科学方面的进展。OpenAI在8月1日发布的博客中说，他们公布了一系列数学和理论计算机科学领域的成果??</description>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-08-03.mp3" length="1465488" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-08-03</guid>
+    <pubDate>Mon, 03 Aug 2026 08:30:00 +0800</pubDate>
+    <itunes:duration>04:04</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+
 </channel>
 </rss>
