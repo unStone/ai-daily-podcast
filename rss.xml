@@ -454,5 +454,16 @@
     <itunes:explicit>false</itunes:explicit>
   </item>
 
+  <item>
+    <title>AI 早报 - 2026年08月07日</title>
+    <itunes:author>ssstone</itunes:author>
+    <description>今天是2026年8月7日，以下是今天的AI动态，共4条新闻加2条论文解读，预计6到7分钟。  第一条，关于OpenAI调整ChatGPT免费版文本对话限制。 OpenAI宣布，ChatGPT的文本对话将对所有用户取消次数限制。免费版和Go版用户将默认使用新??</description>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-08-07.mp3" length="2634624" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-08-07</guid>
+    <pubDate>Fri, 07 Aug 2026 08:30:00 +0800</pubDate>
+    <itunes:duration>07:19</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+
 </channel>
 </rss>
