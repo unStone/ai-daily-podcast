@@ -465,5 +465,16 @@
     <itunes:explicit>false</itunes:explicit>
   </item>
 
+  <item>
+    <title>AI 早报 - 2026年08月08日</title>
+    <itunes:author>ssstone</itunes:author>
+    <description>今天是2026年8月8日，以下是今天的AI动态，共4条新闻和2条论文解读，预计6分钟左右。  第一条，关于Cloudflare发布面向AI代理的浏览器Kitesurf。 Cloudflare在8月7日宣布推出一款名为Kitesurf的云托管浏览器，专为AI代理而非人类用户设?</description>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-08-08.mp3" length="1876464" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-08-08</guid>
+    <pubDate>Sat, 08 Aug 2026 08:30:00 +0800</pubDate>
+    <itunes:duration>05:12</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+
 </channel>
 </rss>
