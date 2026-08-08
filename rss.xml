@@ -476,5 +476,16 @@
     <itunes:explicit>false</itunes:explicit>
   </item>
 
+  <item>
+    <title>AI 早报 - 2026年08月09日</title>
+    <itunes:author>ssstone</itunes:author>
+    <description>今天是8月9日，以下是今天的AI动态，共3条新闻和1条论文解读，预计4分钟。  第一条，关于OpenAI收购一家演示软件公司。 OpenAI宣布收购NextSlide，这是一家做演示软件的初创公司。收购条款没有披露。这条的信息来自TechCrunch报道?</description>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-08-09.mp3" length="1042704" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-08-09</guid>
+    <pubDate>Sun, 09 Aug 2026 08:30:00 +0800</pubDate>
+    <itunes:duration>02:53</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+
 </channel>
 </rss>
