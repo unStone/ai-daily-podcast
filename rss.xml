@@ -487,5 +487,16 @@
     <itunes:explicit>false</itunes:explicit>
   </item>
 
+  <item>
+    <title>AI 早报 - 2026年08月10日</title>
+    <itunes:author>ssstone</itunes:author>
+    <description>今天是2026年8月10日，以下是今天的AI动态，共4条新闻和2条论文解读，预计5分钟。  第一条，关于Anthropic把Claude Code的自动模式设为默认。 Anthropic宣布，从8月14日起，Claude Code的自动模式将默认开启，面向Pro、Max和Team账户。在自?</description>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-08-10.mp3" length="1858608" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-08-10</guid>
+    <pubDate>Mon, 10 Aug 2026 08:30:00 +0800</pubDate>
+    <itunes:duration>05:09</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+
 </channel>
 </rss>
