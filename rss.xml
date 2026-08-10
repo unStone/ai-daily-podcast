@@ -498,5 +498,16 @@
     <itunes:explicit>false</itunes:explicit>
   </item>
 
+  <item>
+    <title>AI 早报 - 2026年08月11日</title>
+    <itunes:author>ssstone</itunes:author>
+    <description>今天是8月11日，以下是今天的AI动态，共4条新闻和2条论文解读，预计7分钟。  第一条，关于Meta发布可在本地运行的开源AI模型Muse Glimmer。 Meta在8月10日发布了名为Muse Glimmer的开源模型。这是一个300亿参数的模型，采用Apache 2.0许??</description>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-08-11.mp3" length="2076912" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-08-11</guid>
+    <pubDate>Tue, 11 Aug 2026 08:30:00 +0800</pubDate>
+    <itunes:duration>05:46</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+
 </channel>
 </rss>
