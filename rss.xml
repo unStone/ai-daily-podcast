@@ -520,5 +520,16 @@
     <itunes:explicit>false</itunes:explicit>
   </item>
 
+  <item>
+    <title>AI 早报 - 2026年08月13日</title>
+    <itunes:author>ssstone</itunes:author>
+    <description>今天是2026年8月13日，以下是今天的AI动态，共3条新闻和2条论文解读，预计6分钟。  第一条，关于Twitch把主播内容用于训练亚马逊生成式AI。 Twitch更新了相关条款，将允许其母公司亚马逊使用平台上海量主播的直播录像和音视频?</description>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-08-13.mp3" length="1647360" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-08-13</guid>
+    <pubDate>Thu, 13 Aug 2026 08:30:00 +0800</pubDate>
+    <itunes:duration>04:34</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+
 </channel>
 </rss>
