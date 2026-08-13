@@ -531,5 +531,16 @@
     <itunes:explicit>false</itunes:explicit>
   </item>
 
+  <item>
+    <title>AI 早报 - 2026年08月14日</title>
+    <itunes:author>ssstone</itunes:author>
+    <description>今天是8月14日，以下是今天的AI动态，共四条新闻和两条论文解读，预计五到六分钟。  第一条，关于OpenAI的新推理模式。OpenAI发布了一个名为Ultrafast的预览模式，用于GPT-5.6 Sol。公司称，该模式相比标准处理速度可提升至十四倍</description>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-08-14.mp3" length="1562112" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-08-14</guid>
+    <pubDate>Fri, 14 Aug 2026 08:30:00 +0800</pubDate>
+    <itunes:duration>04:20</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+
 </channel>
 </rss>
