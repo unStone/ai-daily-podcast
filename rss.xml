@@ -542,5 +542,16 @@
     <itunes:explicit>false</itunes:explicit>
   </item>
 
+  <item>
+    <title>AI 早报 - 2026年08月15日</title>
+    <itunes:author>ssstone</itunes:author>
+    <description>今天是8月15日，以下是今天的AI动态，共4条新闻和2条论文解读，预计6到7分钟。  第一条，关于Google DeepMind发布Gemini 3.7 Flash模型。  Google DeepMind在8月13日发布了Gemini 3.7 Flash，距离上一个版本3.6 Flash仅三周。该公司称这是目前Flash?</description>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-08-15.mp3" length="2333520" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-08-15</guid>
+    <pubDate>Sat, 15 Aug 2026 08:30:00 +0800</pubDate>
+    <itunes:duration>06:28</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+
 </channel>
 </rss>
