@@ -564,5 +564,16 @@
     <itunes:explicit>false</itunes:explicit>
   </item>
 
+  <item>
+    <title>AI 早报 - 2026年08月17日</title>
+    <itunes:author>ssstone</itunes:author>
+    <description>今天是2026年8月17日，以下是今天的AI动态，共3条新闻和2条论文解读，预计5分钟。  第一条，关于OpenAI推出新的API服务层级。 OpenAI在8月13日发布了一项名为Ultrafast的新服务层级。该层级运行在Cerebras芯片上，可将GPT-5.6 Sol的推理??</description>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-08-17.mp3" length="1323360" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-08-17</guid>
+    <pubDate>Mon, 17 Aug 2026 08:30:00 +0800</pubDate>
+    <itunes:duration>03:40</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+
 </channel>
 </rss>
