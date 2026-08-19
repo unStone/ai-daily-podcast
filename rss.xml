@@ -619,5 +619,16 @@
     <itunes:explicit>false</itunes:explicit>
   </item>
 
+  <item>
+    <title>AI 早报 - 2026年08月20日</title>
+    <itunes:author>ssstone</itunes:author>
+    <description>今天是8月20日，以下是今天的AI动态，共3条新闻和2条论文解读，预计6分钟左右。  第一条，关于谷歌在搜索和Gemini中上线新的学习工具。 谷歌在8月19日宣布，在搜索和Gemini里增加面向学生的学习工具。学生可以在搜索的AI概览??</description>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-08-20.mp3" length="1568592" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-08-20</guid>
+    <pubDate>Thu, 20 Aug 2026 08:30:00 +0800</pubDate>
+    <itunes:duration>04:21</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+
 </channel>
 </rss>
