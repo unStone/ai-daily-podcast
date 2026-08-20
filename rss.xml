@@ -630,5 +630,16 @@
     <itunes:explicit>false</itunes:explicit>
   </item>
 
+  <item>
+    <title>AI 早报 - 2026年08月21日</title>
+    <itunes:author>ssstone</itunes:author>
+    <description>今天是8月21日，以下是今天的AI动态，共四条新闻和两条论文解读，预计六到七分钟。  第一条，关于Google DeepMind发布Gemini 3.7 Flash。 Google DeepMind发布了Gemini 3.7 Flash，定位为面向编码和智能体的主力模型。 在FrontierCode 1.1 Main基准?</description>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-08-21.mp3" length="1697184" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-08-21</guid>
+    <pubDate>Fri, 21 Aug 2026 08:30:00 +0800</pubDate>
+    <itunes:duration>04:42</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+
 </channel>
 </rss>
