@@ -652,5 +652,16 @@
     <itunes:explicit>false</itunes:explicit>
   </item>
 
+  <item>
+    <title>AI 早报 - 2026年08月23日</title>
+    <itunes:author>ssstone</itunes:author>
+    <description>今天是8月23日，以下是今天的AI动态，共3条新闻和2条论文解读，预计5分钟。  第一条，关于英国AI实验室Inherent发布的新智能体Faraday。 这家由DeepMind校友创立的伦敦公司，在8月22日表示，其新发布的AI智能体Faraday在独立复现已发</description>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-08-23.mp3" length="1255968" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-08-23</guid>
+    <pubDate>Sun, 23 Aug 2026 08:30:00 +0800</pubDate>
+    <itunes:duration>03:29</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+
 </channel>
 </rss>
