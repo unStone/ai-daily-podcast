@@ -663,5 +663,16 @@
     <itunes:explicit>false</itunes:explicit>
   </item>
 
+  <item>
+    <title>AI 早报 - 2026年08月24日</title>
+    <itunes:author>ssstone</itunes:author>
+    <description>今天是2026年8月24日，以下是今天的AI动态，共4条新闻加2条论文解读，预计5分钟。  第一条，关于OpenAI的数据保留政策。OpenAI在8月19日宣布，面向符合条件的API客户提供前沿模型的零数据保留服务，并预告了一项名为Private Safety P</description>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-08-24.mp3" length="1669248" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-08-24</guid>
+    <pubDate>Mon, 24 Aug 2026 08:30:00 +0800</pubDate>
+    <itunes:duration>04:38</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+
 </channel>
 </rss>
