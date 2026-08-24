@@ -685,5 +685,16 @@
     <itunes:explicit>false</itunes:explicit>
   </item>
 
+  <item>
+    <title>AI 早报 - 2026年08月25日</title>
+    <itunes:author>ssstone</itunes:author>
+    <description>今天是8月25日，以下是今天的AI动态，共3条新闻加2条论文解读，预计5分钟。  第一条，关于OpenAI。OpenAI宣布GPT-5.6模型家族已经接入Kiro。Kiro是OpenAI与AWS合作推出的、面向软件开发任务的AI智能体。GPT-5.6家族包含Sol、Terra和Luna三??</description>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-08-25.mp3" length="1877184" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-08-25</guid>
+    <pubDate>Tue, 25 Aug 2026 08:30:00 +0800</pubDate>
+    <itunes:duration>05:12</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+
 </channel>
 </rss>
