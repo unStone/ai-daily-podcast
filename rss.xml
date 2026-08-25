@@ -696,5 +696,16 @@
     <itunes:explicit>false</itunes:explicit>
   </item>
 
+  <item>
+    <title>AI 早报 - 2026年08月26日</title>
+    <itunes:author>ssstone</itunes:author>
+    <description>今天是8月26日，以下是今天的AI动态，共4条新闻和2条论文解读，预计约6分钟。  第一条，关于OpenAI自研推理芯片Jalapeño的首批基准测试结果。 在Hot Chips大会上，OpenAI公布了与博通合作开发的Jalapeño芯片在SemiAnalysis InferenceX基准??</description>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-08-26.mp3" length="1902672" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-08-26</guid>
+    <pubDate>Wed, 26 Aug 2026 08:30:00 +0800</pubDate>
+    <itunes:duration>05:17</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+
 </channel>
 </rss>
