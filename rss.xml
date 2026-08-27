@@ -718,5 +718,16 @@
     <itunes:explicit>false</itunes:explicit>
   </item>
 
+  <item>
+    <title>AI 早报 - 2026年08月28日</title>
+    <itunes:author>ssstone</itunes:author>
+    <description>今天是8月28日，以下是今天的AI动态，共3条新闻和2条论文解读，预计6到7分钟。  第一条，关于Google的语音转文字模型。 Google发布了Gemini 3.5 Transcribe，这是一个语音转文字模型，能把原始音频直接转成准确、整理好的文字。它支</description>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-08-28.mp3" length="1851984" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-08-28</guid>
+    <pubDate>Fri, 28 Aug 2026 08:30:00 +0800</pubDate>
+    <itunes:duration>05:08</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+
 </channel>
 </rss>
