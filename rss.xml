@@ -729,5 +729,16 @@
     <itunes:explicit>false</itunes:explicit>
   </item>
 
+  <item>
+    <title>AI 早报 - 2026年08月29日</title>
+    <itunes:author>ssstone</itunes:author>
+    <description>今天是8月29日，以下是今天的AI动态，共4条新闻和2条论文解读，预计6分钟。  第一条，关于OpenAI自研推理芯片Jalapeño的首批结果。 OpenAI发布了一款名为Jalapeño的定制推理芯片，用于加快AI推理速度并降低能耗。 官方表示，这款?</description>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-08-29.mp3" length="1137024" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-08-29</guid>
+    <pubDate>Sat, 29 Aug 2026 08:30:00 +0800</pubDate>
+    <itunes:duration>03:09</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+
 </channel>
 </rss>
