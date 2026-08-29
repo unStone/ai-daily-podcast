@@ -740,5 +740,16 @@
     <itunes:explicit>false</itunes:explicit>
   </item>
 
+  <item>
+    <title>AI 早报 - 2026年08月30日</title>
+    <itunes:author>ssstone</itunes:author>
+    <description>今天是8月30日，以下是今天的AI动态，共4条新闻和2条论文解读，预计8分钟。  第一条，关于英伟达的新一代数据中心架构。  根据8月29日TechCrunch的报道，英伟达正在推出Vera Rubin架构，这套系统把Rubin GPU和Vera CPU、Groq 3 LPX推理加?</description>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-08-30.mp3" length="2402064" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-08-30</guid>
+    <pubDate>Sun, 30 Aug 2026 08:30:00 +0800</pubDate>
+    <itunes:duration>06:40</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+
 </channel>
 </rss>
