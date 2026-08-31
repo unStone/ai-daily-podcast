@@ -762,5 +762,16 @@
     <itunes:explicit>false</itunes:explicit>
   </item>
 
+  <item>
+    <title>AI 早报 - 2026年09月01日</title>
+    <itunes:author>ssstone</itunes:author>
+    <description>今天是9月1日，以下是今天的AI动态，共4条新闻加2条论文解读，预计5分钟左右。  第一条，关于OpenAI的广告业务。OpenAI官方博客8月31日发布文章称，ChatGPT Ads的年化收入运行率已达到10亿美元，并正在向更多国家和地区扩展。这??</description>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-09-01.mp3" length="1467360" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-09-01</guid>
+    <pubDate>Tue, 01 Sep 2026 08:30:00 +0800</pubDate>
+    <itunes:duration>04:04</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+
 </channel>
 </rss>
