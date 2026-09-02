@@ -795,5 +795,16 @@
     <itunes:explicit>false</itunes:explicit>
   </item>
 
+  <item>
+    <title>AI 早报 - 2026年09月03日</title>
+    <itunes:author>ssstone</itunes:author>
+    <description>今天是9月3日，以下是今天的AI动态，共3条新闻加1条论文解读，预计6分钟。  第一条，关于Anthropic发布新一代模型。  Anthropic在9月1日发布了Claude Fable 5.1和Claude Mythos 5.1。两款模型是同一架构的不同版本，Fable 5.1面向一般用户开??</description>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-09-03.mp3" length="1423584" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-09-03</guid>
+    <pubDate>Thu, 03 Sep 2026 08:30:00 +0800</pubDate>
+    <itunes:duration>03:57</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+
 </channel>
 </rss>
