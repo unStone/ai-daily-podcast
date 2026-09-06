@@ -828,5 +828,16 @@
     <itunes:explicit>false</itunes:explicit>
   </item>
 
+  <item>
+    <title>AI 早报 - 2026年09月07日</title>
+    <itunes:author>ssstone</itunes:author>
+    <description>今天是9月7日，以下是今天的AI动态，共4条新闻和1条论文解读，预计5分钟。  第一条，关于英伟达收购Hugging Face。据Ars Technica报道，英伟达已同意以130亿美元收购AI模型平台Hugging Face。Hugging Face是AI模型和数据集的托管平台，被??</description>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-09-07.mp3" length="1399680" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-09-07</guid>
+    <pubDate>Mon, 07 Sep 2026 08:30:00 +0800</pubDate>
+    <itunes:duration>03:53</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+
 </channel>
 </rss>
