@@ -850,5 +850,16 @@
     <itunes:explicit>false</itunes:explicit>
   </item>
 
+  <item>
+    <title>AI 早报 - 2026年09月10日</title>
+    <itunes:author>ssstone</itunes:author>
+    <description>今天是9月10日，以下是今天的AI动态，共4条新闻和2条论文解读，预计6分钟。  第一条，关于OpenAI。OpenAI在9月9日发布官方博客称，他们使用一个内部AI模型，加上一万个并行智能体，找到了纳维-斯托克斯方程的一个解。纳维-斯??</description>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-09-10.mp3" length="2266560" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-09-10</guid>
+    <pubDate>Thu, 10 Sep 2026 08:30:00 +0800</pubDate>
+    <itunes:duration>06:17</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+
 </channel>
 </rss>
