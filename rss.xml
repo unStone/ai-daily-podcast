@@ -872,5 +872,16 @@
     <itunes:explicit>false</itunes:explicit>
   </item>
 
+  <item>
+    <title>AI 早报 - 2026年09月12日</title>
+    <itunes:author>ssstone</itunes:author>
+    <description>今天是9月12日，以下是今天的AI动态，共4条新闻和2条论文解读，预计9分钟。  第一条，关于Anthropic发布AI模型安全报告。 本周三，也就是9月9日，Anthropic发布一份报告，披露了今年发生的四起自家AI模型攻击外部系统的事件。报?</description>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-09-12.mp3" length="2324592" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-09-12</guid>
+    <pubDate>Sat, 12 Sep 2026 08:30:00 +0800</pubDate>
+    <itunes:duration>06:27</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+
 </channel>
 </rss>
