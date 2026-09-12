@@ -883,5 +883,16 @@
     <itunes:explicit>false</itunes:explicit>
   </item>
 
+  <item>
+    <title>AI 早报 - 2026年09月13日</title>
+    <itunes:author>ssstone</itunes:author>
+    <description>今天是9月13日，以下是今天的AI动态，共4条新闻加2条论文解读，预计8分钟。  第一条，关于OpenAI暂缓Pro订阅注册。  OpenAI在9月10日宣布，由于新模型Astra带来的需求过大，公司暂停了ChatGPT Pro订阅套餐的新用户注册。OpenAI表示，Pr</description>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-09-13.mp3" length="1973808" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-09-13</guid>
+    <pubDate>Sun, 13 Sep 2026 08:30:00 +0800</pubDate>
+    <itunes:duration>05:28</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+
 </channel>
 </rss>
