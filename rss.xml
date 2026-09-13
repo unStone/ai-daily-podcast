@@ -894,5 +894,16 @@
     <itunes:explicit>false</itunes:explicit>
   </item>
 
+  <item>
+    <title>AI 早报 - 2026年09月14日</title>
+    <itunes:author>ssstone</itunes:author>
+    <description>今天是9月14日，以下是今天的AI动态，共三条新闻和两条论文解读，预计五分钟。  第一条，关于OpenAI。OpenAI宣布，它的一个内部AI系统解决了一个数学领域的长期难题，也就是纳维-斯托克斯方程的存在性与光滑性问题。这个问??</description>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-09-14.mp3" length="1758240" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-09-14</guid>
+    <pubDate>Mon, 14 Sep 2026 08:30:00 +0800</pubDate>
+    <itunes:duration>04:53</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+
 </channel>
 </rss>
