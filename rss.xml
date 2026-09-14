@@ -905,5 +905,16 @@
     <itunes:explicit>false</itunes:explicit>
   </item>
 
+  <item>
+    <title>AI 早报 - 2026年09月15日</title>
+    <itunes:author>ssstone</itunes:author>
+    <description>今天是9月15日，以下是今天的AI动态，共3条新闻和2条论文解读，预计6分钟。  第一条，关于微软发布人工智能行为准则。9月14日，微软发布了一份人工智能行为准则，用于指导其AI模型的训练和行为。准则规定，每个模型都要遵</description>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-09-15.mp3" length="1719648" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-09-15</guid>
+    <pubDate>Tue, 15 Sep 2026 08:30:00 +0800</pubDate>
+    <itunes:duration>04:46</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+
 </channel>
 </rss>
