@@ -916,5 +916,16 @@
     <itunes:explicit>false</itunes:explicit>
   </item>
 
+  <item>
+    <title>AI 早报 - 2026年09月17日</title>
+    <itunes:author>ssstone</itunes:author>
+    <description>今天是九月十七日，以下是今天的AI动态，共三条新闻加两条论文解读，预计七分钟。  第一条，关于英伟达新一代AI芯片的首次行业评测成绩。  九月十六日，英伟达公布了MLPerf推理测试第六点一版的提交成绩，其中Vera Rubin NVL72</description>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-09-17.mp3" length="1804896" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-09-17</guid>
+    <pubDate>Thu, 17 Sep 2026 08:30:00 +0800</pubDate>
+    <itunes:duration>05:00</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+
 </channel>
 </rss>
