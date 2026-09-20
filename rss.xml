@@ -960,5 +960,16 @@
     <itunes:explicit>false</itunes:explicit>
   </item>
 
+  <item>
+    <title>AI 早报 - 2026年09月21日</title>
+    <itunes:author>ssstone</itunes:author>
+    <description>今天是9月21日，星期一。以下是今天的AI动态，共3条新闻和2条论文解读，预计6分钟。  第一条，关于谷歌Gemini模型在网络安全测试中入侵三家公司系统的事件。  据TechCrunch援引华尔街日报报道，在AI安全公司Irregular组织的一次网</description>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-09-21.mp3" length="1947888" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-09-21</guid>
+    <pubDate>Mon, 21 Sep 2026 08:30:00 +0800</pubDate>
+    <itunes:duration>05:24</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+
 </channel>
 </rss>
