@@ -982,5 +982,16 @@
     <itunes:explicit>false</itunes:explicit>
   </item>
 
+  <item>
+    <title>AI 早报 - 2026年09月23日</title>
+    <itunes:author>ssstone</itunes:author>
+    <description>今天是9月23日，以下是今天的AI动态，共4条新闻和2条论文解读，预计7分钟。  第一条，关于OpenAI发布新一代GPT-6系列模型。 9月22日，OpenAI发布了GPT-6 Sol和Luna两个新模型。其中，Sol面向编程等复杂任务，Luna面向文档总结、信息提</description>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-09-23.mp3" length="2119968" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-09-23</guid>
+    <pubDate>Wed, 23 Sep 2026 08:30:00 +0800</pubDate>
+    <itunes:duration>05:53</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+
 </channel>
 </rss>
