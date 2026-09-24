@@ -1004,5 +1004,16 @@
     <itunes:explicit>false</itunes:explicit>
   </item>
 
+  <item>
+    <title>AI 早报 - 2026年09月25日</title>
+    <itunes:author>ssstone</itunes:author>
+    <description>今天是9月25日，以下是今天的AI动态，共4条新闻和2条论文解读，预计8分钟。  第一条，关于谷歌把AI芯片送上太空的计划。谷歌宣布，将在10月1日通过SpaceX的猎鹰9号火箭发射一颗搭载自家张量处理单元的卫星。这是谷歌"追日者?</description>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-09-25.mp3" length="1691568" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-09-25</guid>
+    <pubDate>Fri, 25 Sep 2026 08:30:00 +0800</pubDate>
+    <itunes:duration>04:41</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+
 </channel>
 </rss>
