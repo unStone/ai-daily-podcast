@@ -1015,5 +1015,16 @@
     <itunes:explicit>false</itunes:explicit>
   </item>
 
+  <item>
+    <title>AI 早报 - 2026年09月26日</title>
+    <itunes:author>ssstone</itunes:author>
+    <description>今天是9月26日，以下是今天的AI动态，共4条新闻加2条论文解读，预计6分钟。  第一条，关于Anthropic与Akamai的云计算协议。  Akamai在9月25日宣布，Anthropic将在未来七年内向其支付116亿美元，用于云计算基础设施。这笔金额是双方今</description>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-09-26.mp3" length="2195856" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-09-26</guid>
+    <pubDate>Sat, 26 Sep 2026 08:30:00 +0800</pubDate>
+    <itunes:duration>06:05</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+
 </channel>
 </rss>
