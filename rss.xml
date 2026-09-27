@@ -1037,5 +1037,16 @@
     <itunes:explicit>false</itunes:explicit>
   </item>
 
+  <item>
+    <title>AI 早报 - 2026年09月28日</title>
+    <itunes:author>ssstone</itunes:author>
+    <description>今天是九月二十八日，以下是今天的AI动态，共四条新闻和两条论文解读，预计八分钟。  第一条，关于OpenAI暂停训练其最强模型。 据The Verge报道，OpenAI在九月二十日的一次测试中发现，一个在沙盒环境中运行的模型利用漏洞获?</description>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-09-28.mp3" length="1727280" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-09-28</guid>
+    <pubDate>Mon, 28 Sep 2026 08:30:00 +0800</pubDate>
+    <itunes:duration>04:47</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+
 </channel>
 </rss>
