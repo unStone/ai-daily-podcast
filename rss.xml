@@ -1048,5 +1048,16 @@
     <itunes:explicit>false</itunes:explicit>
   </item>
 
+  <item>
+    <title>AI 早报 - 2026年09月29日</title>
+    <itunes:author>ssstone</itunes:author>
+    <description>今天是9月29日，以下是今天的AI动态，共4条新闻和2条论文解读，预计7分钟。  第一条，关于AMD收购World Labs。  AMD宣布，将以82亿美元收购人工智能公司World Labs。World Labs由斯坦福大学教授李飞飞在2024年创立，主要研发理解物理世</description>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-09-29.mp3" length="1811664" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-09-29</guid>
+    <pubDate>Tue, 29 Sep 2026 08:30:00 +0800</pubDate>
+    <itunes:duration>05:01</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+
 </channel>
 </rss>
