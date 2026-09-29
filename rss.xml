@@ -1059,5 +1059,16 @@
     <itunes:explicit>false</itunes:explicit>
   </item>
 
+  <item>
+    <title>AI 早报 - 2026年09月30日</title>
+    <itunes:author>ssstone</itunes:author>
+    <description>今天是9月30日，以下是今天的AI动态，共4条新闻和2条论文解读，预计8分钟。  第一条，关于OpenAI发布GPT-6.1 Sol模型。 OpenAI在9月29日的DevDay活动上发布了GPT-6.1 Sol，距离上一代GPT-6 Sol发布仅一周。公司表示，新模型在智能体编程、</description>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-09-30.mp3" length="1887264" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-09-30</guid>
+    <pubDate>Wed, 30 Sep 2026 08:30:00 +0800</pubDate>
+    <itunes:duration>05:14</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+
 </channel>
 </rss>
