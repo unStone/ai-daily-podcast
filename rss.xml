@@ -1070,5 +1070,16 @@
     <itunes:explicit>false</itunes:explicit>
   </item>
 
+  <item>
+    <title>AI 早报 - 2026年10月01日</title>
+    <itunes:author>ssstone</itunes:author>
+    <description>今天是10月1日，以下是今天的AI动态，共4条新闻，加2条论文解读，预计7分钟。  第一条，关于谷歌发布新一代前沿模型。  谷歌发布了名为Gemini 4 Argon的新一代人工智能模型。据谷歌首席人工智能架构师、DeepMind高级副总裁Koray Ka</description>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-10-01.mp3" length="2235600" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-10-01</guid>
+    <pubDate>Thu, 01 Oct 2026 08:30:00 +0800</pubDate>
+    <itunes:duration>06:12</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+
 </channel>
 </rss>
