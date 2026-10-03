@@ -1103,5 +1103,16 @@
     <itunes:explicit>false</itunes:explicit>
   </item>
 
+  <item>
+    <title>AI 早报 - 2026年10月04日</title>
+    <itunes:author>ssstone</itunes:author>
+    <description>今天是10月4日，以下是今天的AI动态，共3条新闻和2条论文解读，预计6分钟。  第一条，关于Meta开源Muse智能硬件代码。 Meta开源了代码，让开发者可以自己制作搭载Muse智能体的硬件设备。公司建议的项目包括把Muse加载到彩色电??</description>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-10-04.mp3" length="1625904" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-10-04</guid>
+    <pubDate>Sun, 04 Oct 2026 08:30:00 +0800</pubDate>
+    <itunes:duration>04:30</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+
 </channel>
 </rss>
