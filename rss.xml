@@ -1114,5 +1114,16 @@
     <itunes:explicit>false</itunes:explicit>
   </item>
 
+  <item>
+    <title>AI 早报 - 2026年10月05日</title>
+    <itunes:author>ssstone</itunes:author>
+    <description>今天是10月5日，以下是今天的AI动态，共4条新闻加2条论文解读，预计7分钟。  第一条，关于谷歌暂停开源漏洞奖励计划。  谷歌宣布，由于AI生成的提交数量大幅上升，暂停其开源软件漏洞奖励计划，直到明年。该公司表示，绝?</description>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-10-05.mp3" length="1528704" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-10-05</guid>
+    <pubDate>Mon, 05 Oct 2026 08:30:00 +0800</pubDate>
+    <itunes:duration>04:14</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+
 </channel>
 </rss>
