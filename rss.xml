@@ -1125,5 +1125,16 @@
     <itunes:explicit>false</itunes:explicit>
   </item>
 
+  <item>
+    <title>AI 早报 - 2026年10月06日</title>
+    <itunes:author>ssstone</itunes:author>
+    <description>今天是10月6日，以下是今天的AI动态，共三条新闻加两条论文解读，预计六分钟。  第一条，关于Reflection AI发布开源模型Beam。  Reflection AI是一家位于美国布鲁克林的初创公司，由前Google DeepMind研究人员创立。10月5日，该公司发布</description>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-10-06.mp3" length="2157264" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-10-06</guid>
+    <pubDate>Tue, 06 Oct 2026 08:30:00 +0800</pubDate>
+    <itunes:duration>05:59</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+
 </channel>
 </rss>
