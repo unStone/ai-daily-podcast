@@ -1147,5 +1147,16 @@
     <itunes:explicit>false</itunes:explicit>
   </item>
 
+  <item>
+    <title>AI 早报 - 2026年10月08日</title>
+    <itunes:author>ssstone</itunes:author>
+    <description>今天是10月8日，以下是今天的AI动态，共4条新闻和2条论文解读，预计8分钟。  第一条，关于OpenAI发布ChatGPT全新界面。  10月7日，OpenAI宣布为ChatGPT推出名为Intelligent UI的新界面，并随新一代模型GPT-6同步上线。新界面会在对话中直</description>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-10-08.mp3" length="2247984" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-10-08</guid>
+    <pubDate>Thu, 08 Oct 2026 08:30:00 +0800</pubDate>
+    <itunes:duration>06:14</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+
 </channel>
 </rss>
