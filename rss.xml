@@ -1202,5 +1202,16 @@
     <itunes:explicit>false</itunes:explicit>
   </item>
 
+  <item>
+    <title>AI 早报 - 2026年10月18日</title>
+    <itunes:author>ssstone</itunes:author>
+    <description>今天是10月18日，以下是今天的AI动态，共3条新闻和2条论文解读，预计7分钟。  第一条，关于Meta发布新款开源模型。Meta发布了名为Muse Spark Open的开源权重模型，参数规模为8160亿，上下文窗口为100万token。根据Meta公布的评测结果?</description>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-10-18.mp3" length="1326816" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-10-18</guid>
+    <pubDate>Sun, 18 Oct 2026 08:30:00 +0800</pubDate>
+    <itunes:duration>03:41</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+
 </channel>
 </rss>
