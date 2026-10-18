@@ -1213,5 +1213,16 @@
     <itunes:explicit>false</itunes:explicit>
   </item>
 
+  <item>
+    <title>AI 早报 - 2026年10月19日</title>
+    <itunes:author>ssstone</itunes:author>
+    <description>今天是10月19日，以下是今天的AI动态，共3条新闻和2条论文解读，预计6分钟。  第一条，关于Anthropic设立公共利益基金。10月18日，Anthropic宣布成立公共利益基金，承诺将公司百分之五的股份投入该基金，基金将作为Anthropic全资拥</description>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-10-19.mp3" length="1999872" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-10-19</guid>
+    <pubDate>Mon, 19 Oct 2026 08:30:00 +0800</pubDate>
+    <itunes:duration>05:33</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+
 </channel>
 </rss>
