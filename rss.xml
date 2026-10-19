@@ -1224,5 +1224,16 @@
     <itunes:explicit>false</itunes:explicit>
   </item>
 
+  <item>
+    <title>AI 早报 - 2026年10月20日</title>
+    <itunes:author>ssstone</itunes:author>
+    <description>今天是10月20日，以下是今天的AI动态，共4条新闻加2条论文解读，预计8分钟。  第一条，关于英伟达发布新的开源模型。  10月19日，据TechCrunch报道，英伟达发布了新的开放权重模型，面向全天候运行的智能体和边缘计算场景。其</description>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-10-20.mp3" length="2515104" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-10-20</guid>
+    <pubDate>Tue, 20 Oct 2026 08:30:00 +0800</pubDate>
+    <itunes:duration>06:59</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+
 </channel>
 </rss>
