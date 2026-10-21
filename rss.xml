@@ -1246,5 +1246,16 @@
     <itunes:explicit>false</itunes:explicit>
   </item>
 
+  <item>
+    <title>AI 早报 - 2026年10月22日</title>
+    <itunes:author>ssstone</itunes:author>
+    <description>今天是10月22日，以下是今天的AI动态，共4条新闻和2条论文解读，预计7分钟。  第一条，关于OpenAI与谷歌云的合作。  10月21日，OpenAI官方宣布，OpenAI的模型和Codex工作流将接入谷歌云的Model Garden，并通过谷歌云市场向开发者提供??</description>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-10-22.mp3" length="2048976" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-10-22</guid>
+    <pubDate>Thu, 22 Oct 2026 08:30:00 +0800</pubDate>
+    <itunes:duration>05:41</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+
 </channel>
 </rss>
