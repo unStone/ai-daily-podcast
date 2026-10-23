@@ -1268,5 +1268,16 @@
     <itunes:explicit>false</itunes:explicit>
   </item>
 
+  <item>
+    <title>AI 早报 - 2026年10月24日</title>
+    <itunes:author>ssstone</itunes:author>
+    <description>今天是10月24日，以下是今天的AI动态，共4条新闻加2条论文解读，预计7分钟。  第一条，关于Canva发布首个自研图像生成模型。  设计平台Canva发布了它的第一个图像生成模型，名字叫Canva Craft，由Canva自己的研究团队开发。这个模</description>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-10-24.mp3" length="2294496" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-10-24</guid>
+    <pubDate>Sat, 24 Oct 2026 08:30:00 +0800</pubDate>
+    <itunes:duration>06:22</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+
 </channel>
 </rss>
