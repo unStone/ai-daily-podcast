@@ -1290,5 +1290,16 @@
     <itunes:explicit>false</itunes:explicit>
   </item>
 
+  <item>
+    <title>AI 早报 - 2026年10月26日</title>
+    <itunes:author>ssstone</itunes:author>
+    <description>今天是10月26日，以下是今天的AI动态，共4条新闻和2条论文解读，预计7分钟。  第一条，关于Cerebras部署万亿参数大模型。Cerebras在官方博客介绍了如何把万亿参数级别的模型部署到多张晶圆级芯片上。他们使用的是WSE-3T晶圆芯片</description>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-10-26.mp3" length="1648944" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-10-26</guid>
+    <pubDate>Mon, 26 Oct 2026 08:30:00 +0800</pubDate>
+    <itunes:duration>04:34</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+
 </channel>
 </rss>
