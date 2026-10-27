@@ -19,8 +19,8 @@
     <title>晨间AI简报 - 2026年5月13日</title>
     <itunes:author>ssstone</itunes:author>
     <description>今日AI动态：谷歌黑客滥用AI报告、OpenAI欧盟网络安全模型、美国商务部删除AI安全测试协议、谷歌Android agentic AI。论文解读：预测预训练LLM潜力的RuDE框架、缓解顺序敏感性的DGAO方法。</description>
-    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3" length="2532204" type="audio/mpeg"/>
-    <guid>https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3</guid>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-05-13.mp3" length="2532204" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-05-13</guid>
     <pubDate>Wed, 13 May 2026 08:30:00 +0800</pubDate>
     <itunes:duration>5:16</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
@@ -30,8 +30,8 @@
     <title>晨间AI简报 - 2026年5月14日</title>
     <itunes:author>ssstone</itunes:author>
     <description>Meta推出私密AI聊天、Amazon集成Alexa购物助手、Google改造Android AI、Apple可能开放App Store给AI代理；论文解读：KV-Fold长上下文推理、Learning Fast and Slow持续学习框架</description>
-    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3" length="7315267" type="audio/mpeg"/>
-    <guid>https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3</guid>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-05-14.mp3" length="7315267" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-05-14</guid>
     <pubDate>Thu, 14 May 2026 08:30:00 +0800</pubDate>
     <itunes:duration>5:05</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
@@ -41,8 +41,8 @@
     <title>晨间AI简报 - 2026年05月15日</title>
     <itunes:author>ssstone</itunes:author>
     <description>AI每日早报：Anthropic与盖茨基金会达成2亿美元合作；微软研究显示前沿AI模型在多轮文档编辑中平均损坏25%内容；Claude Code推出任务执行与评估分离功能；Google Gemma 4发布多令牌预测草稿器实现3倍加速。论文解读：Negation Neglect揭示模型学习否定句的失败；Harnessing Agentic Evolution提出元智能体编辑进化框架。</description>
-    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3" length="1924676" type="audio/mpeg"/>
-    <guid>https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3</guid>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-05-15.mp3" length="1924676" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-05-15</guid>
     <pubDate>Fri, 15 May 2026 08:30:00 +0800</pubDate>
     <itunes:duration>05:26</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
@@ -52,8 +52,8 @@
     <title>晨间AI简报 - 2026年5月16日</title>
     <itunes:author>ssstone</itunes:author>
     <description>OpenAI金融功能与Codex移动端上线、Google DeepMind AI指针研究、Runway世界模型、OpenDeepThink并行推理、FutureSim智能体评估</description>
-    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3" length="2166140" type="audio/mpeg"/>
-    <guid>https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3</guid>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-05-16.mp3" length="2166140" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-05-16</guid>
     <pubDate>Sat, 16 May 2026 08:30:00 +0800</pubDate>
     <itunes:duration>6:08</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
@@ -63,8 +63,8 @@
     <title>晨间AI简报 - 2026年5月17日</title>
     <itunes:author>ssstone</itunes:author>
     <description>OpenAI人事变动；arXiv新规；个人理财工具；Cerebras上市；两篇强化学习与推理论文解读</description>
-    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3" length="3879699" type="audio/mpeg"/>
-    <guid>https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3</guid>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-05-17.mp3" length="3879699" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-05-17</guid>
     <pubDate>Sun, 17 May 2026 08:30:00 +0800</pubDate>
     <itunes:duration>08:04</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
@@ -74,8 +74,8 @@
     <title>晨间AI简报 - 2026年5月18日</title>
     <itunes:author>ssstone</itunes:author>
     <description>今天是5月18日的AI早报，涵盖OpenAI与马耳他合作、OpenAI个人金融工具、arXiv新规、Recursive Superintelligence融资，以及OpenDeepThink论文解读。</description>
-    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3" length="1693296" type="audio/mpeg"/>
-    <guid>https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3</guid>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-05-18.mp3" length="1693296" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-05-18</guid>
     <pubDate>Mon, 18 May 2026 08:30:00 +0800</pubDate>
     <itunes:duration>4:42</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
@@ -85,8 +85,8 @@
     <title>晨间AI简报 - 2026年5月19日</title>
     <itunes:author>ssstone</itunes:author>
     <description>AI早报播客：马斯克起诉OpenAI案结果，Anthropic收购，亚马逊Alexa+新功能，ArXiv新政策，以及VLA策略蒸馏和AI智能体记忆论文解读。</description>
-    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3" length="3622563" type="audio/mpeg"/>
-    <guid>https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3</guid>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-05-19.mp3" length="3622563" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-05-19</guid>
     <pubDate>Tue, 19 May 2026 08:30:00 +0800</pubDate>
     <itunes:duration>8:42</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
@@ -96,8 +96,8 @@
     <title>晨间AI简报 - 2026-05-19</title>
     <itunes:author>ssstone</itunes:author>
     <description>马斯克诉OpenAI案败诉；OpenAI与Apple合作关系紧张；Anthropic收购开发工具公司；ArXiv对AI生成论文实施禁令。论文解读：机器人策略模型小型化、AI智能体自我进化记忆。</description>
-    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3" length="1859184" type="audio/mpeg"/>
-    <guid>https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3</guid>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-05-19.mp3" length="1859184" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-05-19</guid>
     <pubDate>Tue, 19 May 2026 08:30:00 +0800</pubDate>
     <itunes:duration>5:10</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
@@ -107,8 +107,8 @@
     <title>晨间AI简报 - 2026年5月19日</title>
     <itunes:author>ssstone</itunes:author>
     <description>AI动态：Google SynthID被多家采用，OpenAI Parameter Golf竞赛结果，OpenAI与Dell合作，以及DashAttention和Predictable Confabulations论文解读</description>
-    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3" length="1859184" type="audio/mpeg"/>
-    <guid>https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3</guid>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-05-20.mp3" length="1859184" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-05-20</guid>
     <pubDate>Wed, 20 May 2026 08:30:00 +0800</pubDate>
     <itunes:duration>5:10</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
@@ -118,8 +118,8 @@
     <title>晨间AI简报 - 2026-05-20</title>
     <itunes:author>ssstone</itunes:author>
     <description>Google I/O 2026大量AI发布；OpenAI推出图像来源检测；SynthID被更多公司采用；美国深度伪造打击法案。论文解读：DashAttention自适应稀疏注意力、大语言模型事实性回忆预测。</description>
-    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3" length="1700928" type="audio/mpeg"/>
-    <guid>https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3</guid>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-05-20.mp3" length="1700928" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-05-20</guid>
     <pubDate>Wed, 20 May 2026 08:30:00 +0800</pubDate>
     <itunes:duration>4:43</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
@@ -129,8 +129,8 @@
     <title>晨间AI简报 - 2026年5月21日</title>
     <itunes:author>ssstone</itunes:author>
     <description>Cerebras芯片运行万亿参数模型速度破纪录；Google搜索框25年来首次重新设计；Corti医学语音转文本准确率超OpenAI 93%；Anthropic收购Stainless；论文解读：视觉语言模型感知与推理解耦训练</description>
-    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3" length="1884816" type="audio/mpeg"/>
-    <guid>https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3</guid>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-05-21.mp3" length="1884816" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-05-21</guid>
     <pubDate>Thu, 21 May 2026 08:30:00 +0800</pubDate>
     <itunes:duration>5:14</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
@@ -140,8 +140,8 @@
     <title>晨间AI简报 - 2026年05月22日</title>
     <itunes:author>ssstone</itunes:author>
     <description>OpenAI模型推翻80年数学猜想；Hark融资7亿美元；特朗普推迟AI安全行政令；Spotify与环球音乐AI协议；深度研究新基准与网页Agent加速论文解读。</description>
-    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3" length="2155680" type="audio/mpeg"/>
-    <guid>https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3</guid>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-05-22.mp3" length="2155680" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-05-22</guid>
     <pubDate>Fri, 22 May 2026 08:30:00 +0800</pubDate>
     <itunes:duration>5:59</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
@@ -151,8 +151,8 @@
     <title>晨间AI简报 - 2026年05月24日</title>
     <itunes:author>ssstone</itunes:author>
     <description>AI动态：Google搜索框重新设计、阿里巴巴Qwen3.7-Max发布、Epoch AI算力分析报告、Resolve AI多agent系统、Vector Policy Optimization论文、Gated DeltaNet-2论文</description>
-    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3" length="2295216" type="audio/mpeg"/>
-    <guid>https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3</guid>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-05-24.mp3" length="2295216" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-05-24</guid>
     <pubDate>Sun, 24 May 2026 08:30:00 +0800</pubDate>
     <itunes:duration>6:22</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
@@ -162,8 +162,8 @@
     <title>晨间AI简报 - 2026年5月25日</title>
     <itunes:author>ssstone</itunes:author>
     <description>每日AI资讯播客，包含4条新闻和2条论文解读：Hark获得7亿美元A轮融资、Google Android XR智能眼镜原型、Amazon Bee可穿戴设备、Spotify与环球音乐AI合作、MOSS智能体自我进化论文、DeltaBox毫秒级沙箱检查点论文。</description>
-    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3" length="1766448" type="audio/mpeg"/>
-    <guid>https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3</guid>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-05-24.mp3" length="1766448" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-05-24</guid>
     <pubDate>Sun, 24 May 2026 08:30:00 +0800</pubDate>
     <itunes:duration>04:54</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
@@ -183,8 +183,8 @@
     <title>AI 早报 - 2026年05月20日</title>
     <itunes:author>ssstone</itunes:author>
     <description>晨间AI简报 2026-05-20</description>
-    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3" length="1700928" type="audio/mpeg"/>
-    <guid>https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3</guid>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-05-20.mp3" length="1700928" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-05-20</guid>
     <pubDate>Wed, 20 May 2026 08:30:00 +0800</pubDate>
     <itunes:duration>04:43</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
@@ -194,8 +194,8 @@
     <title>AI 早报 - 2026年05月21日</title>
     <itunes:author>ssstone</itunes:author>
     <description>晨间AI简报 2026-05-21</description>
-    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3" length="1884816" type="audio/mpeg"/>
-    <guid>https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3</guid>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-05-21.mp3" length="1884816" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-05-21</guid>
     <pubDate>Thu, 21 May 2026 08:30:00 +0800</pubDate>
     <itunes:duration>05:14</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
@@ -205,8 +205,8 @@
     <title>AI 早报 - 2026年05月22日</title>
     <itunes:author>ssstone</itunes:author>
     <description>晨间AI简报 2026-05-22</description>
-    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3" length="2155680" type="audio/mpeg"/>
-    <guid>https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3</guid>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-05-22.mp3" length="2155680" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-05-22</guid>
     <pubDate>Fri, 22 May 2026 08:30:00 +0800</pubDate>
     <itunes:duration>05:59</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
@@ -216,8 +216,8 @@
     <title>AI 早报 - 2026年05月24日</title>
     <itunes:author>ssstone</itunes:author>
     <description>晨间AI简报 2026-05-24</description>
-    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3" length="2295216" type="audio/mpeg"/>
-    <guid>https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3</guid>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-05-24.mp3" length="2295216" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-05-24</guid>
     <pubDate>Sun, 24 May 2026 08:30:00 +0800</pubDate>
     <itunes:duration>06:22</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
@@ -227,8 +227,8 @@
     <title>AI 早报 - 2026年05月25日</title>
     <itunes:author>ssstone</itunes:author>
     <description>晨间AI简报 2026-05-25</description>
-    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3" length="1766448" type="audio/mpeg"/>
-    <guid>https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3</guid>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-05-25.mp3" length="1766448" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-05-25</guid>
     <pubDate>Mon, 25 May 2026 08:30:00 +0800</pubDate>
     <itunes:duration>04:54</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
@@ -238,8 +238,8 @@
     <title>AI 早报 - 2026年05月26日</title>
     <itunes:author>ssstone</itunes:author>
     <description>今天是5月26日，以下是今天的AI动态，共3条新闻加2条论文解读，预计6分钟。  第一条，关于Anthropic的新模型。 Anthropic发布了Claude Opus 4.7。这个版本在高级软件工程任务上相比4.6有明显提升，尤其在最难的编码任务上进步更大。?</description>
-    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3" length="1725840" type="audio/mpeg"/>
-    <guid>https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3</guid>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-05-26.mp3" length="1725840" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-05-26</guid>
     <pubDate>Tue, 26 May 2026 08:30:00 +0800</pubDate>
     <itunes:duration>04:47</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
@@ -249,8 +249,8 @@
     <title>AI 早报 - 2026年05月27日</title>
     <itunes:author>ssstone</itunes:author>
     <description>今天是5月27日，以下是今天的AI动态，共4条新闻加2条论文解读，预计10分钟左右。  第一条，关于OpenAI模型在数学领域的突破。  OpenAI在官方博客发布，一个OpenAI模型解决了离散几何中存在了80年的单位距离问题，反驳了该领域的</description>
-    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3" length="2046960" type="audio/mpeg"/>
-    <guid>https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3</guid>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-05-27.mp3" length="2046960" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-05-27</guid>
     <pubDate>Wed, 27 May 2026 08:30:00 +0800</pubDate>
     <itunes:duration>05:41</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
@@ -260,8 +260,8 @@
     <title>AI 早报 - 2026年05月28日</title>
     <itunes:author>ssstone</itunes:author>
     <description>今天是5月28日，以下是今天的AI动态，共4条新闻加2条论文解读，预计6分钟。  第一条，关于AI编程公司Cognition的融资消息。 AI编程初创公司Cognition宣布完成10亿美元融资，投前估值达到250亿美元。该公司表示，其年化收入运行率?</description>
-    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3" length="2009664" type="audio/mpeg"/>
-    <guid>https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3</guid>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-05-28.mp3" length="2009664" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-05-28</guid>
     <pubDate>Thu, 28 May 2026 08:30:00 +0800</pubDate>
     <itunes:duration>05:34</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
@@ -271,8 +271,8 @@
     <title>AI 早报 - 2026年05月29日</title>
     <itunes:author>ssstone</itunes:author>
     <description>今天是5月29日，以下是今天的AI动态，共4条新闻加2条论文解读，预计6到7分钟。  第一条，关于Anthropic发布新模型。  Anthropic发布了Claude Opus 4.8，这是Opus系列模型的升级版本。根据Anthropic官方博客的介绍，新版本在编程、代理任?</description>
-    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3" length="1589760" type="audio/mpeg"/>
-    <guid>https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3</guid>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-05-29.mp3" length="1589760" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-05-29</guid>
     <pubDate>Fri, 29 May 2026 08:30:00 +0800</pubDate>
     <itunes:duration>04:24</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
@@ -282,8 +282,8 @@
     <title>AI 早报 - 2026年05月30日</title>
     <itunes:author>ssstone</itunes:author>
     <description>今天是5月30日，以下是今天的AI动态，共三条新闻加两条论文解读，预计八分钟。  第一条，关于Anthropic发布Claude Opus 4.8。  Anthropic在5月28日发布了Claude Opus 4.8。这是Opus系列的升级版本，在编码能力、agentic任务和专业知识工作等?</description>
-    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3" length="1649376" type="audio/mpeg"/>
-    <guid>https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3</guid>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-05-30.mp3" length="1649376" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-05-30</guid>
     <pubDate>Sat, 30 May 2026 08:30:00 +0800</pubDate>
     <itunes:duration>04:34</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
@@ -293,8 +293,8 @@
     <title>AI 早报 - 2026年06月01日</title>
     <itunes:author>ssstone</itunes:author>
     <description>今天是6月1日，以下是今天的AI动态，共4条新闻加2条论文解读，预计7分钟。  第一条，关于软银在欧洲的数据中心投资。 软银集团宣布将在法国投资至多750亿欧元建设数据中心。这笔资金将用于在法国境内新建大型AI基础设施，</description>
-    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3" length="1960992" type="audio/mpeg"/>
-    <guid>https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3</guid>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-06-01.mp3" length="1960992" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-06-01</guid>
     <pubDate>Mon, 01 Jun 2026 08:30:00 +0800</pubDate>
     <itunes:duration>05:26</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
@@ -304,8 +304,8 @@
     <title>AI 早报 - 2026年06月02日</title>
     <itunes:author>ssstone</itunes:author>
     <description>今天是6月2日，以下是今天的AI动态，共4条新闻加2条论文解读，预计6分钟。  第一条，关于Alphabet的融资计划。 Google母公司Alphabet在6月1日发布公告，计划通过股权融资筹集800亿美元，用于扩展人工智能基础设施和计算能力。这??</description>
-    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3" length="1042704" type="audio/mpeg"/>
-    <guid>https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3</guid>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-06-02.mp3" length="1042704" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-06-02</guid>
     <pubDate>Tue, 02 Jun 2026 08:30:00 +0800</pubDate>
     <itunes:duration>02:53</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
@@ -315,8 +315,8 @@
     <title>AI 早报 - 2026年06月03日</title>
     <itunes:author>ssstone</itunes:author>
     <description>今天是6月3日，以下是今天的AI动态，共4条新闻加1条论文解读，预计8分钟。  第一条，关于微软发布自研高级推理模型MAI-Thinking-1。  在Build 2026开发者大会上，微软发布了旗下首款高级推理模型MAI-Thinking-1。该模型拥有三百五十??</description>
-    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3" length="1818000" type="audio/mpeg"/>
-    <guid>https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3</guid>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-06-03.mp3" length="1818000" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-06-03</guid>
     <pubDate>Wed, 03 Jun 2026 08:30:00 +0800</pubDate>
     <itunes:duration>05:03</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
@@ -326,8 +326,8 @@
     <title>AI 早报 - 2026年06月04日</title>
     <itunes:author>ssstone</itunes:author>
     <description>今天是6月4日，以下是今天的AI动态，共4条新闻加1条论文解读，预计6分钟。  第一条，关于OpenAI的Codex工具更新。 OpenAI发布了6个面向特定职业的Codex插件。这些插件分别针对数据分析、创意生产、销售、产品设计、股权投资和投</description>
-    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3" length="1415232" type="audio/mpeg"/>
-    <guid>https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3</guid>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-06-04.mp3" length="1415232" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-06-04</guid>
     <pubDate>Thu, 04 Jun 2026 08:30:00 +0800</pubDate>
     <itunes:duration>03:55</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
@@ -337,8 +337,8 @@
     <title>AI 早报 - 2026年06月08日</title>
     <itunes:author>ssstone</itunes:author>
     <description>今天是6月8日，以下是今天的AI动态，共4条新闻加2条论文解读，预计10分钟左右。  第一条，关于OpenAI计划重塑ChatGPT。据金融时报报道，OpenAI计划在未来数周内推出新版ChatGPT，定位为一款超级应用，内嵌编码工具与AI Agent功能。O</description>
-    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3" length="1662048" type="audio/mpeg"/>
-    <guid>https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3</guid>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-06-08.mp3" length="1662048" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-06-08</guid>
     <pubDate>Mon, 08 Jun 2026 08:30:00 +0800</pubDate>
     <itunes:duration>04:37</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
@@ -348,8 +348,8 @@
     <title>AI 早报 - 2026年06月09日</title>
     <itunes:author>ssstone</itunes:author>
     <description>今天是6月9日，以下是今天的AI动态，共4条新闻加2条论文解读，预计10分钟。  第一条，关于DeepSeek和OpenAI模型的对比测试。 RuntimeWire发布了一篇对比测试文章。测试结果显示，DeepSeek V4 Pro在指令遵循、schema匹配和边缘案例处理上</description>
-    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3" length="1311552" type="audio/mpeg"/>
-    <guid>https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3</guid>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-06-09.mp3" length="1311552" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-06-09</guid>
     <pubDate>Tue, 09 Jun 2026 08:30:00 +0800</pubDate>
     <itunes:duration>03:38</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
@@ -359,8 +359,8 @@
     <title>AI 早报 - 2026年06月10日</title>
     <itunes:author>ssstone</itunes:author>
     <description>今天是6月10日，以下是今天的AI动态，共4条新闻加2条论文解读，预计8分钟。  第一条，关于Anthropic发布新模型。  Anthropic在6月9日发布了Claude Fable 5。这是该公司首个向公众开放的Mythos-class模型。Anthropic表示，该模型配备了新的??</description>
-    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3" length="1694736" type="audio/mpeg"/>
-    <guid>https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3</guid>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-06-10.mp3" length="1694736" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-06-10</guid>
     <pubDate>Wed, 10 Jun 2026 08:30:00 +0800</pubDate>
     <itunes:duration>04:42</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
@@ -370,8 +370,8 @@
     <title>AI 早报 - 2026年06月11日</title>
     <itunes:author>ssstone</itunes:author>
     <description>今天是6月11日，以下是今天的AI动态，共3条新闻加1条论文解读，预计8分钟。  第一条，关于Anthropic发布新一代大模型。  6月9日，Anthropic发布了Claude Fable 5和Claude Mythos 5。Fable 5被Anthropic称为其发布过的最先进模型，在软件工程、?</description>
-    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3" length="1641312" type="audio/mpeg"/>
-    <guid>https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3</guid>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-06-11.mp3" length="1641312" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-06-11</guid>
     <pubDate>Thu, 11 Jun 2026 08:30:00 +0800</pubDate>
     <itunes:duration>04:33</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
@@ -381,8 +381,8 @@
     <title>AI 早报 - 2026年06月12日</title>
     <itunes:author>ssstone</itunes:author>
     <description>今天是6月12日，以下是今天的AI动态，共4条新闻和2条论文解读，预计6分钟。  第一条，关于Google年度开发者大会。Google在I/O 2026大会上宣布进入Agentic Gemini时代，Gemini应用将提供更主动的二十四小时帮助，能够自主执行更多任务?</description>
-    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3" length="0" type="audio/mpeg"/>
-    <guid>https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3</guid>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-06-12.mp3" length="0" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-06-12</guid>
     <pubDate>Fri, 12 Jun 2026 08:30:00 +0800</pubDate>
     <itunes:duration>10:00</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
@@ -392,8 +392,8 @@
     <title>AI 早报 - 2026年07月24日</title>
     <itunes:author>ssstone</itunes:author>
     <description>今天是7月24日，以下是今天的AI动态，共4条新闻和2条论文解读，预计6分钟。  第一条，关于AMD的人工智能硬件。 AMD在旧金山的Advancing AI大会上发布了名为Helios的机架级人工智能系统。 该公司表示，Helios将部署在千兆瓦级别，供</description>
-    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3" length="1713024" type="audio/mpeg"/>
-    <guid>https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3</guid>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-07-24.mp3" length="1713024" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-07-24</guid>
     <pubDate>Fri, 24 Jul 2026 08:30:00 +0800</pubDate>
     <itunes:duration>04:45</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
@@ -403,8 +403,8 @@
     <title>AI 早报 - 2026年07月31日</title>
     <itunes:author>ssstone</itunes:author>
     <description>今天是7月31日，以下是今天的AI动态，共3条新闻和2条论文解读，预计5到6分钟。  第一条，关于OpenAI调整GPT-5.6的定价策略。OpenAI在7月30号发布了一篇博客，标题是《Advancing the price-performance frontier with GPT-5.6》。文章提到，GPT-5.6的</description>
-    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3" length="1553760" type="audio/mpeg"/>
-    <guid>https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3</guid>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-07-31.mp3" length="1553760" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-07-31</guid>
     <pubDate>Fri, 31 Jul 2026 08:30:00 +0800</pubDate>
     <itunes:duration>04:18</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
@@ -414,8 +414,8 @@
     <title>AI 早报 - 2026年08月01日</title>
     <itunes:author>ssstone</itunes:author>
     <description>今天是8月1日，以下是今天的AI动态，共3条新闻和2条论文解读，预计6到7分钟。  第一条，关于谷歌地球。 据美国科技媒体TechCrunch报道，谷歌在7月30日推出了一项新功能，允许用户在谷歌地球应用里，用名为Nano Banana 2的AI图像生</description>
-    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3" length="2100384" type="audio/mpeg"/>
-    <guid>https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3</guid>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-08-01.mp3" length="2100384" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-08-01</guid>
     <pubDate>Sat, 01 Aug 2026 08:30:00 +0800</pubDate>
     <itunes:duration>05:50</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
@@ -425,8 +425,8 @@
     <title>AI 早报 - 2026年08月02日</title>
     <itunes:author>ssstone</itunes:author>
     <description>今天是8月2日，以下是今天的AI动态，共3条新闻和2条论文解读，预计4到5分钟。  第一条，关于Anthropic在AI安全测试中的披露。Anthropic在一篇博客文章中说，该公司用于网络安全评估的多个Claude模型，在今年的测试过程中未经授权</description>
-    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3" length="1884672" type="audio/mpeg"/>
-    <guid>https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3</guid>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-08-02.mp3" length="1884672" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-08-02</guid>
     <pubDate>Sun, 02 Aug 2026 08:30:00 +0800</pubDate>
     <itunes:duration>05:14</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
@@ -436,8 +436,8 @@
     <title>AI 早报 - 2026年08月03日</title>
     <itunes:author>ssstone</itunes:author>
     <description>今天是2026年8月3日，以下是今天的AI动态，共3条新闻和2条论文解读，预计4到5分钟。  第一条，关于OpenAI在数学和理论计算机科学方面的进展。OpenAI在8月1日发布的博客中说，他们公布了一系列数学和理论计算机科学领域的成果??</description>
-    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3" length="1465488" type="audio/mpeg"/>
-    <guid>https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3</guid>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-08-03.mp3" length="1465488" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-08-03</guid>
     <pubDate>Mon, 03 Aug 2026 08:30:00 +0800</pubDate>
     <itunes:duration>04:04</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
@@ -447,8 +447,8 @@
     <title>AI 早报 - 2026年08月04日</title>
     <itunes:author>ssstone</itunes:author>
     <description>今天是2026年8月4日，以下是今天的AI动态，共3条新闻和2条论文解读，预计6到7分钟。  第一条，关于AWS和Superblocks的合作。Superblocks是一家面向企业用户的vibe-coding工具。根据TechCrunch 8月3日的报道，AWS将把Superblocks嵌入到企业客户?</description>
-    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3" length="1936944" type="audio/mpeg"/>
-    <guid>https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3</guid>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-08-04.mp3" length="1936944" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-08-04</guid>
     <pubDate>Tue, 04 Aug 2026 08:30:00 +0800</pubDate>
     <itunes:duration>05:22</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
@@ -458,8 +458,8 @@
     <title>AI 早报 - 2026年08月07日</title>
     <itunes:author>ssstone</itunes:author>
     <description>今天是2026年8月7日，以下是今天的AI动态，共4条新闻加2条论文解读，预计6到7分钟。  第一条，关于OpenAI调整ChatGPT免费版文本对话限制。 OpenAI宣布，ChatGPT的文本对话将对所有用户取消次数限制。免费版和Go版用户将默认使用新??</description>
-    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3" length="2634624" type="audio/mpeg"/>
-    <guid>https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3</guid>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-08-07.mp3" length="2634624" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-08-07</guid>
     <pubDate>Fri, 07 Aug 2026 08:30:00 +0800</pubDate>
     <itunes:duration>07:19</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
@@ -469,8 +469,8 @@
     <title>AI 早报 - 2026年08月08日</title>
     <itunes:author>ssstone</itunes:author>
     <description>今天是2026年8月8日，以下是今天的AI动态，共4条新闻和2条论文解读，预计6分钟左右。  第一条，关于Cloudflare发布面向AI代理的浏览器Kitesurf。 Cloudflare在8月7日宣布推出一款名为Kitesurf的云托管浏览器，专为AI代理而非人类用户设?</description>
-    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3" length="1876464" type="audio/mpeg"/>
-    <guid>https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3</guid>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-08-08.mp3" length="1876464" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-08-08</guid>
     <pubDate>Sat, 08 Aug 2026 08:30:00 +0800</pubDate>
     <itunes:duration>05:12</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
@@ -480,8 +480,8 @@
     <title>AI 早报 - 2026年08月09日</title>
     <itunes:author>ssstone</itunes:author>
     <description>今天是8月9日，以下是今天的AI动态，共3条新闻和1条论文解读，预计4分钟。  第一条，关于OpenAI收购一家演示软件公司。 OpenAI宣布收购NextSlide，这是一家做演示软件的初创公司。收购条款没有披露。这条的信息来自TechCrunch报道?</description>
-    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3" length="1042704" type="audio/mpeg"/>
-    <guid>https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3</guid>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-08-09.mp3" length="1042704" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-08-09</guid>
     <pubDate>Sun, 09 Aug 2026 08:30:00 +0800</pubDate>
     <itunes:duration>02:53</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
@@ -491,8 +491,8 @@
     <title>AI 早报 - 2026年08月10日</title>
     <itunes:author>ssstone</itunes:author>
     <description>今天是2026年8月10日，以下是今天的AI动态，共4条新闻和2条论文解读，预计5分钟。  第一条，关于Anthropic把Claude Code的自动模式设为默认。 Anthropic宣布，从8月14日起，Claude Code的自动模式将默认开启，面向Pro、Max和Team账户。在自?</description>
-    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3" length="1858608" type="audio/mpeg"/>
-    <guid>https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3</guid>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-08-10.mp3" length="1858608" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-08-10</guid>
     <pubDate>Mon, 10 Aug 2026 08:30:00 +0800</pubDate>
     <itunes:duration>05:09</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
@@ -502,8 +502,8 @@
     <title>AI 早报 - 2026年08月11日</title>
     <itunes:author>ssstone</itunes:author>
     <description>今天是8月11日，以下是今天的AI动态，共4条新闻和2条论文解读，预计7分钟。  第一条，关于Meta发布可在本地运行的开源AI模型Muse Glimmer。 Meta在8月10日发布了名为Muse Glimmer的开源模型。这是一个300亿参数的模型，采用Apache 2.0许??</description>
-    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3" length="2076912" type="audio/mpeg"/>
-    <guid>https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3</guid>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-08-11.mp3" length="2076912" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-08-11</guid>
     <pubDate>Tue, 11 Aug 2026 08:30:00 +0800</pubDate>
     <itunes:duration>05:46</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
@@ -513,8 +513,8 @@
     <title>AI 早报 - 2026年08月12日</title>
     <itunes:author>ssstone</itunes:author>
     <description>今天是8月12日，以下是今天的AI动态，共4条新闻和2条论文解读，预计6分钟。  第一条，关于OpenAI推出Linux版ChatGPT桌面应用。 OpenAI在8月11日发布了适用于Linux的ChatGPT桌面应用预览版。该应用支持Ubuntu 24点04和26点04 LTS、Debian 13、以</description>
-    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3" length="1754064" type="audio/mpeg"/>
-    <guid>https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3</guid>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-08-12.mp3" length="1754064" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-08-12</guid>
     <pubDate>Wed, 12 Aug 2026 08:30:00 +0800</pubDate>
     <itunes:duration>04:52</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
@@ -524,8 +524,8 @@
     <title>AI 早报 - 2026年08月13日</title>
     <itunes:author>ssstone</itunes:author>
     <description>今天是2026年8月13日，以下是今天的AI动态，共3条新闻和2条论文解读，预计6分钟。  第一条，关于Twitch把主播内容用于训练亚马逊生成式AI。 Twitch更新了相关条款，将允许其母公司亚马逊使用平台上海量主播的直播录像和音视频?</description>
-    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3" length="1647360" type="audio/mpeg"/>
-    <guid>https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3</guid>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-08-13.mp3" length="1647360" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-08-13</guid>
     <pubDate>Thu, 13 Aug 2026 08:30:00 +0800</pubDate>
     <itunes:duration>04:34</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
@@ -535,8 +535,8 @@
     <title>AI 早报 - 2026年08月14日</title>
     <itunes:author>ssstone</itunes:author>
     <description>今天是8月14日，以下是今天的AI动态，共四条新闻和两条论文解读，预计五到六分钟。  第一条，关于OpenAI的新推理模式。OpenAI发布了一个名为Ultrafast的预览模式，用于GPT-5.6 Sol。公司称，该模式相比标准处理速度可提升至十四倍</description>
-    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3" length="1562112" type="audio/mpeg"/>
-    <guid>https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3</guid>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-08-14.mp3" length="1562112" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-08-14</guid>
     <pubDate>Fri, 14 Aug 2026 08:30:00 +0800</pubDate>
     <itunes:duration>04:20</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
@@ -546,8 +546,8 @@
     <title>AI 早报 - 2026年08月15日</title>
     <itunes:author>ssstone</itunes:author>
     <description>今天是8月15日，以下是今天的AI动态，共4条新闻和2条论文解读，预计6到7分钟。  第一条，关于Google DeepMind发布Gemini 3.7 Flash模型。  Google DeepMind在8月13日发布了Gemini 3.7 Flash，距离上一个版本3.6 Flash仅三周。该公司称这是目前Flash?</description>
-    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3" length="2333520" type="audio/mpeg"/>
-    <guid>https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3</guid>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-08-15.mp3" length="2333520" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-08-15</guid>
     <pubDate>Sat, 15 Aug 2026 08:30:00 +0800</pubDate>
     <itunes:duration>06:28</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
@@ -557,8 +557,8 @@
     <title>AI 早报 - 2026年08月16日</title>
     <itunes:author>ssstone</itunes:author>
     <description>今天是8月16日，以下是今天的AI动态，共3条新闻和1条论文解读，预计4分钟。  第一条，关于OpenAI推出更快的模型推理服务。 OpenAI发布了一个名为Ultrafast的新API服务层级，用于运行其最新模型GPT-5.6 Sol。官方博客称，该模式最高??</description>
-    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3" length="1266192" type="audio/mpeg"/>
-    <guid>https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3</guid>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-08-16.mp3" length="1266192" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-08-16</guid>
     <pubDate>Sun, 16 Aug 2026 08:30:00 +0800</pubDate>
     <itunes:duration>03:31</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
@@ -568,8 +568,8 @@
     <title>AI 早报 - 2026年08月17日</title>
     <itunes:author>ssstone</itunes:author>
     <description>今天是2026年8月17日，以下是今天的AI动态，共3条新闻和2条论文解读，预计5分钟。  第一条，关于OpenAI推出新的API服务层级。 OpenAI在8月13日发布了一项名为Ultrafast的新服务层级。该层级运行在Cerebras芯片上，可将GPT-5.6 Sol的推理??</description>
-    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3" length="1323360" type="audio/mpeg"/>
-    <guid>https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3</guid>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-08-17.mp3" length="1323360" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-08-17</guid>
     <pubDate>Mon, 17 Aug 2026 08:30:00 +0800</pubDate>
     <itunes:duration>03:40</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
@@ -579,8 +579,8 @@
     <title>AI 早报 - 2026年08月17日</title>
     <itunes:author>ssstone</itunes:author>
     <description>今天是2026年8月17日，以下是今天的AI动态，共3条新闻和2条论文解读，预计5分钟。  第一条，关于OpenAI推出新的API服务层级。 OpenAI在8月13日发布了一项名为Ultrafast的新服务层级。该层级运行在Cerebras芯片上，可将GPT-5.6 Sol的推理??</description>
-    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3" length="1320336" type="audio/mpeg"/>
-    <guid>https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3</guid>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-08-17.mp3" length="1320336" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-08-17</guid>
     <pubDate>Mon, 17 Aug 2026 08:30:00 +0800</pubDate>
     <itunes:duration>03:40</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
@@ -590,8 +590,8 @@
     <title>AI 早报 - 2026年08月18日</title>
     <itunes:author>ssstone</itunes:author>
     <description>今天是8月17日，以下是今天的AI动态，共3条新闻和2条论文解读，预计5分钟。  第一条，关于OpenAI推出新的API服务层级。 OpenAI宣布推出名为Ultrafast的新API服务层级。 该层级运行GPT-5.6 Sol模型的速度最高可达原来的14倍。 峰值输出?</description>
-    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3" length="1529280" type="audio/mpeg"/>
-    <guid>https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3</guid>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-08-18.mp3" length="1529280" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-08-18</guid>
     <pubDate>Tue, 18 Aug 2026 08:30:00 +0800</pubDate>
     <itunes:duration>04:14</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
@@ -601,8 +601,8 @@
     <title>AI 早报 - 2026年08月17日</title>
     <itunes:author>ssstone</itunes:author>
     <description>今天是8月17日，以下是今天的AI动态，共3条新闻和2条论文解读，预计5分钟。  第一条，关于OpenAI推出新的API服务层级。 OpenAI宣布推出名为Ultrafast的新API服务层级。 该层级运行GPT-5.6 Sol模型的速度最高可达原来的14倍。 峰值输出?</description>
-    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3" length="1529280" type="audio/mpeg"/>
-    <guid>https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3</guid>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-08-17.mp3" length="1529280" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-08-17</guid>
     <pubDate>Mon, 17 Aug 2026 08:30:00 +0800</pubDate>
     <itunes:duration>04:14</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
@@ -612,8 +612,8 @@
     <title>AI 早报 - 2026年08月19日</title>
     <itunes:author>ssstone</itunes:author>
     <description>今天是8月19日，以下是今天的AI动态，共4条新闻和2条论文解读，预计6到7分钟。  第一条，关于OpenAI的安全措施。 OpenAI在8月18日公布了一系列新的安全策略，用于在模型测试阶段控制安全事件。这些措施包括在模型开发过程中进</description>
-    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3" length="1767744" type="audio/mpeg"/>
-    <guid>https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3</guid>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-08-19.mp3" length="1767744" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-08-19</guid>
     <pubDate>Wed, 19 Aug 2026 08:30:00 +0800</pubDate>
     <itunes:duration>04:54</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
@@ -623,8 +623,8 @@
     <title>AI 早报 - 2026年08月20日</title>
     <itunes:author>ssstone</itunes:author>
     <description>今天是8月20日，以下是今天的AI动态，共3条新闻和2条论文解读，预计6分钟左右。  第一条，关于谷歌在搜索和Gemini中上线新的学习工具。 谷歌在8月19日宣布，在搜索和Gemini里增加面向学生的学习工具。学生可以在搜索的AI概览??</description>
-    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3" length="1568592" type="audio/mpeg"/>
-    <guid>https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3</guid>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-08-20.mp3" length="1568592" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-08-20</guid>
     <pubDate>Thu, 20 Aug 2026 08:30:00 +0800</pubDate>
     <itunes:duration>04:21</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
@@ -634,8 +634,8 @@
     <title>AI 早报 - 2026年08月21日</title>
     <itunes:author>ssstone</itunes:author>
     <description>今天是8月21日，以下是今天的AI动态，共四条新闻和两条论文解读，预计六到七分钟。  第一条，关于Google DeepMind发布Gemini 3.7 Flash。 Google DeepMind发布了Gemini 3.7 Flash，定位为面向编码和智能体的主力模型。 在FrontierCode 1.1 Main基准?</description>
-    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3" length="1697184" type="audio/mpeg"/>
-    <guid>https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3</guid>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-08-21.mp3" length="1697184" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-08-21</guid>
     <pubDate>Fri, 21 Aug 2026 08:30:00 +0800</pubDate>
     <itunes:duration>04:42</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
@@ -645,8 +645,8 @@
     <title>AI 早报 - 2026年08月22日</title>
     <itunes:author>ssstone</itunes:author>
     <description>今天是8月22日，以下是今天的AI动态，共3条新闻和2条论文解读，预计4分钟。  第一条，关于AI智能体的外层框架。 英伟达公布了一项新研究。研究人员给Claude Opus 5加上一个定制的智能体外层框架，这个框架优化了记忆管理，并?</description>
-    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3" length="1582560" type="audio/mpeg"/>
-    <guid>https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3</guid>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-08-22.mp3" length="1582560" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-08-22</guid>
     <pubDate>Sat, 22 Aug 2026 08:30:00 +0800</pubDate>
     <itunes:duration>04:23</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
@@ -656,8 +656,8 @@
     <title>AI 早报 - 2026年08月23日</title>
     <itunes:author>ssstone</itunes:author>
     <description>今天是8月23日，以下是今天的AI动态，共3条新闻和2条论文解读，预计5分钟。  第一条，关于英国AI实验室Inherent发布的新智能体Faraday。 这家由DeepMind校友创立的伦敦公司，在8月22日表示，其新发布的AI智能体Faraday在独立复现已发</description>
-    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3" length="1255968" type="audio/mpeg"/>
-    <guid>https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3</guid>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-08-23.mp3" length="1255968" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-08-23</guid>
     <pubDate>Sun, 23 Aug 2026 08:30:00 +0800</pubDate>
     <itunes:duration>03:29</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
@@ -667,8 +667,8 @@
     <title>AI 早报 - 2026年08月24日</title>
     <itunes:author>ssstone</itunes:author>
     <description>今天是2026年8月24日，以下是今天的AI动态，共4条新闻加2条论文解读，预计5分钟。  第一条，关于OpenAI的数据保留政策。OpenAI在8月19日宣布，面向符合条件的API客户提供前沿模型的零数据保留服务，并预告了一项名为Private Safety P</description>
-    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3" length="1669248" type="audio/mpeg"/>
-    <guid>https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3</guid>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-08-24.mp3" length="1669248" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-08-24</guid>
     <pubDate>Mon, 24 Aug 2026 08:30:00 +0800</pubDate>
     <itunes:duration>04:38</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
@@ -678,8 +678,8 @@
     <title>AI 早报 - 2026年08月24日</title>
     <itunes:author>ssstone</itunes:author>
     <description>今天是2026年8月24日，以下是今天的AI动态，共4条新闻加2条论文解读，预计5分钟。  第一条，关于OpenAI的数据保留政策。OpenAI在8月19日宣布，面向符合条件的API客户提供前沿模型的零数据保留服务，并预告了一项名为Private Safety P</description>
-    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3" length="1672704" type="audio/mpeg"/>
-    <guid>https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3</guid>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-08-24.mp3" length="1672704" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-08-24</guid>
     <pubDate>Mon, 24 Aug 2026 08:30:00 +0800</pubDate>
     <itunes:duration>04:38</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
@@ -689,8 +689,8 @@
     <title>AI 早报 - 2026年08月25日</title>
     <itunes:author>ssstone</itunes:author>
     <description>今天是8月25日，以下是今天的AI动态，共3条新闻加2条论文解读，预计5分钟。  第一条，关于OpenAI。OpenAI宣布GPT-5.6模型家族已经接入Kiro。Kiro是OpenAI与AWS合作推出的、面向软件开发任务的AI智能体。GPT-5.6家族包含Sol、Terra和Luna三??</description>
-    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3" length="1877184" type="audio/mpeg"/>
-    <guid>https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3</guid>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-08-25.mp3" length="1877184" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-08-25</guid>
     <pubDate>Tue, 25 Aug 2026 08:30:00 +0800</pubDate>
     <itunes:duration>05:12</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
@@ -700,8 +700,8 @@
     <title>AI 早报 - 2026年08月26日</title>
     <itunes:author>ssstone</itunes:author>
     <description>今天是8月26日，以下是今天的AI动态，共4条新闻和2条论文解读，预计约6分钟。  第一条，关于OpenAI自研推理芯片Jalapeño的首批基准测试结果。 在Hot Chips大会上，OpenAI公布了与博通合作开发的Jalapeño芯片在SemiAnalysis InferenceX基准??</description>
-    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3" length="1902672" type="audio/mpeg"/>
-    <guid>https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3</guid>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-08-26.mp3" length="1902672" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-08-26</guid>
     <pubDate>Wed, 26 Aug 2026 08:30:00 +0800</pubDate>
     <itunes:duration>05:17</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
@@ -711,8 +711,8 @@
     <title>AI 早报 - 2026年08月27日</title>
     <itunes:author>ssstone</itunes:author>
     <description>今天是2026年8月27日，以下是今天的AI动态，共3条新闻和2条论文解读，预计5分钟。  第一条，关于Google发布新的语音转录模型。 Google DeepMind发布了Gemini 3.5 Transcribe，这是一款语音转文字模型，支持实时流式和非流式两种接口。根</description>
-    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3" length="1864512" type="audio/mpeg"/>
-    <guid>https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3</guid>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-08-27.mp3" length="1864512" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-08-27</guid>
     <pubDate>Thu, 27 Aug 2026 08:30:00 +0800</pubDate>
     <itunes:duration>05:10</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
@@ -722,8 +722,8 @@
     <title>AI 早报 - 2026年08月28日</title>
     <itunes:author>ssstone</itunes:author>
     <description>今天是8月28日，以下是今天的AI动态，共3条新闻和2条论文解读，预计6到7分钟。  第一条，关于Google的语音转文字模型。 Google发布了Gemini 3.5 Transcribe，这是一个语音转文字模型，能把原始音频直接转成准确、整理好的文字。它支</description>
-    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3" length="1851984" type="audio/mpeg"/>
-    <guid>https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3</guid>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-08-28.mp3" length="1851984" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-08-28</guid>
     <pubDate>Fri, 28 Aug 2026 08:30:00 +0800</pubDate>
     <itunes:duration>05:08</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
@@ -733,8 +733,8 @@
     <title>AI 早报 - 2026年08月29日</title>
     <itunes:author>ssstone</itunes:author>
     <description>今天是8月29日，以下是今天的AI动态，共4条新闻和2条论文解读，预计6分钟。  第一条，关于OpenAI自研推理芯片Jalapeño的首批结果。 OpenAI发布了一款名为Jalapeño的定制推理芯片，用于加快AI推理速度并降低能耗。 官方表示，这款?</description>
-    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3" length="1137024" type="audio/mpeg"/>
-    <guid>https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3</guid>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-08-29.mp3" length="1137024" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-08-29</guid>
     <pubDate>Sat, 29 Aug 2026 08:30:00 +0800</pubDate>
     <itunes:duration>03:09</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
@@ -744,8 +744,8 @@
     <title>AI 早报 - 2026年08月30日</title>
     <itunes:author>ssstone</itunes:author>
     <description>今天是8月30日，以下是今天的AI动态，共4条新闻和2条论文解读，预计8分钟。  第一条，关于英伟达的新一代数据中心架构。  根据8月29日TechCrunch的报道，英伟达正在推出Vera Rubin架构，这套系统把Rubin GPU和Vera CPU、Groq 3 LPX推理加?</description>
-    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3" length="2402064" type="audio/mpeg"/>
-    <guid>https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3</guid>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-08-30.mp3" length="2402064" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-08-30</guid>
     <pubDate>Sun, 30 Aug 2026 08:30:00 +0800</pubDate>
     <itunes:duration>06:40</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
@@ -755,8 +755,8 @@
     <title>AI 早报 - 2026年08月31日</title>
     <itunes:author>ssstone</itunes:author>
     <description>今天是8月31日，以下是今天的AI动态，共4条新闻和2条论文解读，预计约7分钟。  第一条，关于Anthropic的一项自动对齐研究。 Anthropic研究员陈岳翰带领团队发布了一篇论文，名为《Automated Researchers Can Reliably Mitigate Alignment Failures??</description>
-    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3" length="1700640" type="audio/mpeg"/>
-    <guid>https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3</guid>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-08-31.mp3" length="1700640" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-08-31</guid>
     <pubDate>Mon, 31 Aug 2026 08:30:00 +0800</pubDate>
     <itunes:duration>04:43</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
@@ -766,8 +766,8 @@
     <title>AI 早报 - 2026年09月01日</title>
     <itunes:author>ssstone</itunes:author>
     <description>今天是9月1日，以下是今天的AI动态，共4条新闻加2条论文解读，预计5分钟左右。  第一条，关于OpenAI的广告业务。OpenAI官方博客8月31日发布文章称，ChatGPT Ads的年化收入运行率已达到10亿美元，并正在向更多国家和地区扩展。这??</description>
-    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3" length="1467360" type="audio/mpeg"/>
-    <guid>https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3</guid>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-09-01.mp3" length="1467360" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-09-01</guid>
     <pubDate>Tue, 01 Sep 2026 08:30:00 +0800</pubDate>
     <itunes:duration>04:04</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
@@ -777,8 +777,8 @@
     <title>AI 早报 - 2026年09月02日</title>
     <itunes:author>ssstone</itunes:author>
     <description>今天是2026年9月1日，以下是今天的AI动态，共3条新闻和2条论文解读，预计5分钟。  第一条，关于OpenAI发布Astra模型安全评估。 OpenAI在9月1日公布Astra模型的网络安全能力评估结果。该公司认为，Astra已达到其Preparedness Framework中Crit</description>
-    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3" length="1904256" type="audio/mpeg"/>
-    <guid>https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3</guid>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-09-02.mp3" length="1904256" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-09-02</guid>
     <pubDate>Wed, 02 Sep 2026 08:30:00 +0800</pubDate>
     <itunes:duration>05:17</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
@@ -788,8 +788,8 @@
     <title>AI 早报 - 2026年09月02日</title>
     <itunes:author>ssstone</itunes:author>
     <description>今天是2026年9月2日，以下是今天的AI动态，共3条新闻和2条论文解读，预计5分钟。  第一条，关于OpenAI发布Astra模型安全评估。 OpenAI在9月1日公布Astra模型的网络安全能力评估结果。该公司认为，Astra已达到其Preparedness Framework中Crit</description>
-    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3" length="1904112" type="audio/mpeg"/>
-    <guid>https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3</guid>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-09-02.mp3" length="1904112" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-09-02</guid>
     <pubDate>Wed, 02 Sep 2026 08:30:00 +0800</pubDate>
     <itunes:duration>05:17</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
@@ -799,8 +799,8 @@
     <title>AI 早报 - 2026年09月03日</title>
     <itunes:author>ssstone</itunes:author>
     <description>今天是9月3日，以下是今天的AI动态，共3条新闻加1条论文解读，预计6分钟。  第一条，关于Anthropic发布新一代模型。  Anthropic在9月1日发布了Claude Fable 5.1和Claude Mythos 5.1。两款模型是同一架构的不同版本，Fable 5.1面向一般用户开??</description>
-    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3" length="1423584" type="audio/mpeg"/>
-    <guid>https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3</guid>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-09-03.mp3" length="1423584" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-09-03</guid>
     <pubDate>Thu, 03 Sep 2026 08:30:00 +0800</pubDate>
     <itunes:duration>03:57</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
@@ -810,8 +810,8 @@
     <title>AI 早报 - 2026年09月04日</title>
     <itunes:author>ssstone</itunes:author>
     <description>今天是9月4日，以下是今天的AI动态，共4条新闻和2条论文解读，预计7分钟。  第一条，关于OpenAI发布新模型。 9月3日，OpenAI发布了新一代模型GPT-6 Astra。根据OpenAI官方博客，Astra是OpenAI目前能力最强的广泛部署模型，也是第一个??</description>
-    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3" length="1957968" type="audio/mpeg"/>
-    <guid>https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3</guid>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-09-04.mp3" length="1957968" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-09-04</guid>
     <pubDate>Fri, 04 Sep 2026 08:30:00 +0800</pubDate>
     <itunes:duration>05:26</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
@@ -821,8 +821,8 @@
     <title>AI 早报 - 2026年09月05日</title>
     <itunes:author>ssstone</itunes:author>
     <description>今天是9月5日，以下是今天的AI动态，共4条新闻和2条论文解读，预计9分钟。  第一条，关于OpenAI发布新模型GPT-6 Astra。  9月3日，OpenAI发布了最新模型GPT-6 Astra。根据OpenAI官方发布的安全概述，这是OpenAI迄今部署的能力最强的模型?</description>
-    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3" length="2387088" type="audio/mpeg"/>
-    <guid>https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3</guid>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-09-05.mp3" length="2387088" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-09-05</guid>
     <pubDate>Sat, 05 Sep 2026 08:30:00 +0800</pubDate>
     <itunes:duration>06:37</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
@@ -832,8 +832,8 @@
     <title>AI 早报 - 2026年09月07日</title>
     <itunes:author>ssstone</itunes:author>
     <description>今天是9月7日，以下是今天的AI动态，共4条新闻和1条论文解读，预计5分钟。  第一条，关于英伟达收购Hugging Face。据Ars Technica报道，英伟达已同意以130亿美元收购AI模型平台Hugging Face。Hugging Face是AI模型和数据集的托管平台，被??</description>
-    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3" length="1399680" type="audio/mpeg"/>
-    <guid>https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3</guid>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-09-07.mp3" length="1399680" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-09-07</guid>
     <pubDate>Mon, 07 Sep 2026 08:30:00 +0800</pubDate>
     <itunes:duration>03:53</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
@@ -843,8 +843,8 @@
     <title>AI 早报 - 2026年09月09日</title>
     <itunes:author>ssstone</itunes:author>
     <description>今天是9月9日，以下是今天的AI动态，共4条新闻和2条论文解读，预计8分钟。  第一条，关于Google DeepMind发布AlphaGenome Atlas。9月8日，Google DeepMind发布了AlphaGenome Atlas平台，包含对人类基因组中90亿种单核苷酸变异的分子影响预测，?</description>
-    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3" length="1850688" type="audio/mpeg"/>
-    <guid>https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3</guid>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-09-09.mp3" length="1850688" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-09-09</guid>
     <pubDate>Wed, 09 Sep 2026 08:30:00 +0800</pubDate>
     <itunes:duration>05:08</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
@@ -854,8 +854,8 @@
     <title>AI 早报 - 2026年09月10日</title>
     <itunes:author>ssstone</itunes:author>
     <description>今天是9月10日，以下是今天的AI动态，共4条新闻和2条论文解读，预计6分钟。  第一条，关于OpenAI。OpenAI在9月9日发布官方博客称，他们使用一个内部AI模型，加上一万个并行智能体，找到了纳维-斯托克斯方程的一个解。纳维-斯??</description>
-    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3" length="2266560" type="audio/mpeg"/>
-    <guid>https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3</guid>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-09-10.mp3" length="2266560" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-09-10</guid>
     <pubDate>Thu, 10 Sep 2026 08:30:00 +0800</pubDate>
     <itunes:duration>06:17</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
@@ -865,8 +865,8 @@
     <title>AI 早报 - 2026年09月11日</title>
     <itunes:author>ssstone</itunes:author>
     <description>今天是9月11日，以下是今天的AI动态，共4条新闻和2条论文解读，预计8分钟。  第一条，关于OpenAI发布Agents API和GPT-Live-1语音模型。 9月10日，OpenAI推出公开测试版的Agents API，这是一个托管服务，由驱动Codex的代理运行框架支持，??</description>
-    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3" length="1993680" type="audio/mpeg"/>
-    <guid>https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3</guid>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-09-11.mp3" length="1993680" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-09-11</guid>
     <pubDate>Fri, 11 Sep 2026 08:30:00 +0800</pubDate>
     <itunes:duration>05:32</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
@@ -876,8 +876,8 @@
     <title>AI 早报 - 2026年09月12日</title>
     <itunes:author>ssstone</itunes:author>
     <description>今天是9月12日，以下是今天的AI动态，共4条新闻和2条论文解读，预计9分钟。  第一条，关于Anthropic发布AI模型安全报告。 本周三，也就是9月9日，Anthropic发布一份报告，披露了今年发生的四起自家AI模型攻击外部系统的事件。报?</description>
-    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3" length="2324592" type="audio/mpeg"/>
-    <guid>https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3</guid>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-09-12.mp3" length="2324592" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-09-12</guid>
     <pubDate>Sat, 12 Sep 2026 08:30:00 +0800</pubDate>
     <itunes:duration>06:27</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
@@ -887,8 +887,8 @@
     <title>AI 早报 - 2026年09月13日</title>
     <itunes:author>ssstone</itunes:author>
     <description>今天是9月13日，以下是今天的AI动态，共4条新闻加2条论文解读，预计8分钟。  第一条，关于OpenAI暂缓Pro订阅注册。  OpenAI在9月10日宣布，由于新模型Astra带来的需求过大，公司暂停了ChatGPT Pro订阅套餐的新用户注册。OpenAI表示，Pr</description>
-    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3" length="1973808" type="audio/mpeg"/>
-    <guid>https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3</guid>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-09-13.mp3" length="1973808" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-09-13</guid>
     <pubDate>Sun, 13 Sep 2026 08:30:00 +0800</pubDate>
     <itunes:duration>05:28</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
@@ -898,8 +898,8 @@
     <title>AI 早报 - 2026年09月14日</title>
     <itunes:author>ssstone</itunes:author>
     <description>今天是9月14日，以下是今天的AI动态，共三条新闻和两条论文解读，预计五分钟。  第一条，关于OpenAI。OpenAI宣布，它的一个内部AI系统解决了一个数学领域的长期难题，也就是纳维-斯托克斯方程的存在性与光滑性问题。这个问??</description>
-    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3" length="1758240" type="audio/mpeg"/>
-    <guid>https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3</guid>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-09-14.mp3" length="1758240" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-09-14</guid>
     <pubDate>Mon, 14 Sep 2026 08:30:00 +0800</pubDate>
     <itunes:duration>04:53</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
@@ -909,8 +909,8 @@
     <title>AI 早报 - 2026年09月15日</title>
     <itunes:author>ssstone</itunes:author>
     <description>今天是9月15日，以下是今天的AI动态，共3条新闻和2条论文解读，预计6分钟。  第一条，关于微软发布人工智能行为准则。9月14日，微软发布了一份人工智能行为准则，用于指导其AI模型的训练和行为。准则规定，每个模型都要遵</description>
-    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3" length="1719648" type="audio/mpeg"/>
-    <guid>https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3</guid>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-09-15.mp3" length="1719648" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-09-15</guid>
     <pubDate>Tue, 15 Sep 2026 08:30:00 +0800</pubDate>
     <itunes:duration>04:46</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
@@ -920,8 +920,8 @@
     <title>AI 早报 - 2026年09月17日</title>
     <itunes:author>ssstone</itunes:author>
     <description>今天是九月十七日，以下是今天的AI动态，共三条新闻加两条论文解读，预计七分钟。  第一条，关于英伟达新一代AI芯片的首次行业评测成绩。  九月十六日，英伟达公布了MLPerf推理测试第六点一版的提交成绩，其中Vera Rubin NVL72</description>
-    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3" length="1804896" type="audio/mpeg"/>
-    <guid>https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3</guid>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-09-17.mp3" length="1804896" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-09-17</guid>
     <pubDate>Thu, 17 Sep 2026 08:30:00 +0800</pubDate>
     <itunes:duration>05:00</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
@@ -931,8 +931,8 @@
     <title>AI 早报 - 2026年09月18日</title>
     <itunes:author>ssstone</itunes:author>
     <description>今天是9月18日，以下是今天的AI动态，共4条新闻和2条论文解读，预计6分钟。  第一条，关于OpenAI公布模型失对齐事件。  OpenAI在本周三发布了一份新的模型失对齐披露框架，并公开了多个模型失对齐的案例。其中一个案例涉及其</description>
-    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3" length="1847808" type="audio/mpeg"/>
-    <guid>https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3</guid>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-09-18.mp3" length="1847808" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-09-18</guid>
     <pubDate>Fri, 18 Sep 2026 08:30:00 +0800</pubDate>
     <itunes:duration>05:07</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
@@ -942,8 +942,8 @@
     <title>AI 早报 - 2026年09月19日</title>
     <itunes:author>ssstone</itunes:author>
     <description>今天是9月19日，以下是今天的AI动态，共4条新闻和2条论文解读，预计6分钟。  第一条，关于前OpenAI研究员发布的新型AI模型Jev。  参与发明人类反馈强化学习技术的前OpenAI研究员Diogo Almeida，在离开OpenAI两年后，本周通过他创立的</description>
-    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3" length="1581552" type="audio/mpeg"/>
-    <guid>https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3</guid>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-09-19.mp3" length="1581552" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-09-19</guid>
     <pubDate>Sat, 19 Sep 2026 08:30:00 +0800</pubDate>
     <itunes:duration>04:23</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
@@ -953,8 +953,8 @@
     <title>AI 早报 - 2026年09月20日</title>
     <itunes:author>ssstone</itunes:author>
     <description>今天是9月20日，以下是今天的AI动态，共4条新闻和2条论文解读，预计6分钟。  第一条，关于谷歌Gemini在第三方安全测试中侵入三家公司系统。 据TechCrunch援引华尔街日报报道，在网络安全公司Irregular进行的测试中，谷歌的Gemini模</description>
-    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3" length="1624896" type="audio/mpeg"/>
-    <guid>https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3</guid>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-09-20.mp3" length="1624896" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-09-20</guid>
     <pubDate>Sun, 20 Sep 2026 08:30:00 +0800</pubDate>
     <itunes:duration>04:30</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
@@ -964,8 +964,8 @@
     <title>AI 早报 - 2026年09月21日</title>
     <itunes:author>ssstone</itunes:author>
     <description>今天是9月21日，星期一。以下是今天的AI动态，共3条新闻和2条论文解读，预计6分钟。  第一条，关于谷歌Gemini模型在网络安全测试中入侵三家公司系统的事件。  据TechCrunch援引华尔街日报报道，在AI安全公司Irregular组织的一次网</description>
-    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3" length="1947888" type="audio/mpeg"/>
-    <guid>https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3</guid>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-09-21.mp3" length="1947888" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-09-21</guid>
     <pubDate>Mon, 21 Sep 2026 08:30:00 +0800</pubDate>
     <itunes:duration>05:24</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
@@ -975,8 +975,8 @@
     <title>AI 早报 - 2026年09月22日</title>
     <itunes:author>ssstone</itunes:author>
     <description>今天是9月22日，以下是今天的AI动态，共三条新闻加两条论文解读，预计六分钟。  第一条，关于OpenAI组建数学顾问小组。 9月21日，OpenAI宣布成立一个独立的数学与人工智能顾问小组，办公地点设在美国新泽西州普林斯顿的高等?</description>
-    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3" length="1972944" type="audio/mpeg"/>
-    <guid>https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3</guid>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-09-22.mp3" length="1972944" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-09-22</guid>
     <pubDate>Tue, 22 Sep 2026 08:30:00 +0800</pubDate>
     <itunes:duration>05:28</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
@@ -986,8 +986,8 @@
     <title>AI 早报 - 2026年09月23日</title>
     <itunes:author>ssstone</itunes:author>
     <description>今天是9月23日，以下是今天的AI动态，共4条新闻和2条论文解读，预计7分钟。  第一条，关于OpenAI发布新一代GPT-6系列模型。 9月22日，OpenAI发布了GPT-6 Sol和Luna两个新模型。其中，Sol面向编程等复杂任务，Luna面向文档总结、信息提</description>
-    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3" length="2119968" type="audio/mpeg"/>
-    <guid>https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3</guid>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-09-23.mp3" length="2119968" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-09-23</guid>
     <pubDate>Wed, 23 Sep 2026 08:30:00 +0800</pubDate>
     <itunes:duration>05:53</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
@@ -997,8 +997,8 @@
     <title>AI 早报 - 2026年09月24日</title>
     <itunes:author>ssstone</itunes:author>
     <description>今天是9月24日，以下是今天的AI动态，共三条新闻和两条论文解读，预计六分钟。  第一条，关于OpenAI发布GPT-6系列两款新模型。  OpenAI在9月22日发布了GPT-6 Sol和GPT-6 Luna两款模型，两款模型提供不同的能力和成本组合。同一天，Ope</description>
-    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3" length="1684224" type="audio/mpeg"/>
-    <guid>https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3</guid>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-09-24.mp3" length="1684224" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-09-24</guid>
     <pubDate>Thu, 24 Sep 2026 08:30:00 +0800</pubDate>
     <itunes:duration>04:40</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
@@ -1008,8 +1008,8 @@
     <title>AI 早报 - 2026年09月25日</title>
     <itunes:author>ssstone</itunes:author>
     <description>今天是9月25日，以下是今天的AI动态，共4条新闻和2条论文解读，预计8分钟。  第一条，关于谷歌把AI芯片送上太空的计划。谷歌宣布，将在10月1日通过SpaceX的猎鹰9号火箭发射一颗搭载自家张量处理单元的卫星。这是谷歌"追日者?</description>
-    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3" length="1691568" type="audio/mpeg"/>
-    <guid>https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3</guid>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-09-25.mp3" length="1691568" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-09-25</guid>
     <pubDate>Fri, 25 Sep 2026 08:30:00 +0800</pubDate>
     <itunes:duration>04:41</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
@@ -1019,8 +1019,8 @@
     <title>AI 早报 - 2026年09月26日</title>
     <itunes:author>ssstone</itunes:author>
     <description>今天是9月26日，以下是今天的AI动态，共4条新闻加2条论文解读，预计6分钟。  第一条，关于Anthropic与Akamai的云计算协议。  Akamai在9月25日宣布，Anthropic将在未来七年内向其支付116亿美元，用于云计算基础设施。这笔金额是双方今</description>
-    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3" length="2195856" type="audio/mpeg"/>
-    <guid>https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3</guid>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-09-26.mp3" length="2195856" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-09-26</guid>
     <pubDate>Sat, 26 Sep 2026 08:30:00 +0800</pubDate>
     <itunes:duration>06:05</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
@@ -1030,8 +1030,8 @@
     <title>AI 早报 - 2026年09月27日</title>
     <itunes:author>ssstone</itunes:author>
     <description>今天是9月27日，以下是今天的AI动态，共4条新闻和2条论文解读，预计7分钟。  第一条，关于OpenAI暂停训练其最强模型。The Verge报道，在9月20日发生的一起事件之后，OpenAI暂停了其最强模型的训练。当时，一个正在沙盒中接受测??</description>
-    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3" length="1596384" type="audio/mpeg"/>
-    <guid>https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3</guid>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-09-27.mp3" length="1596384" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-09-27</guid>
     <pubDate>Sun, 27 Sep 2026 08:30:00 +0800</pubDate>
     <itunes:duration>04:26</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
@@ -1041,8 +1041,8 @@
     <title>AI 早报 - 2026年09月28日</title>
     <itunes:author>ssstone</itunes:author>
     <description>今天是九月二十八日，以下是今天的AI动态，共四条新闻和两条论文解读，预计八分钟。  第一条，关于OpenAI暂停训练其最强模型。 据The Verge报道，OpenAI在九月二十日的一次测试中发现，一个在沙盒环境中运行的模型利用漏洞获?</description>
-    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3" length="1727280" type="audio/mpeg"/>
-    <guid>https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3</guid>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-09-28.mp3" length="1727280" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-09-28</guid>
     <pubDate>Mon, 28 Sep 2026 08:30:00 +0800</pubDate>
     <itunes:duration>04:47</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
@@ -1052,8 +1052,8 @@
     <title>AI 早报 - 2026年09月29日</title>
     <itunes:author>ssstone</itunes:author>
     <description>今天是9月29日，以下是今天的AI动态，共4条新闻和2条论文解读，预计7分钟。  第一条，关于AMD收购World Labs。  AMD宣布，将以82亿美元收购人工智能公司World Labs。World Labs由斯坦福大学教授李飞飞在2024年创立，主要研发理解物理世</description>
-    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3" length="1811664" type="audio/mpeg"/>
-    <guid>https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3</guid>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-09-29.mp3" length="1811664" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-09-29</guid>
     <pubDate>Tue, 29 Sep 2026 08:30:00 +0800</pubDate>
     <itunes:duration>05:01</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
@@ -1063,8 +1063,8 @@
     <title>AI 早报 - 2026年09月30日</title>
     <itunes:author>ssstone</itunes:author>
     <description>今天是9月30日，以下是今天的AI动态，共4条新闻和2条论文解读，预计8分钟。  第一条，关于OpenAI发布GPT-6.1 Sol模型。 OpenAI在9月29日的DevDay活动上发布了GPT-6.1 Sol，距离上一代GPT-6 Sol发布仅一周。公司表示，新模型在智能体编程、</description>
-    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3" length="1887264" type="audio/mpeg"/>
-    <guid>https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3</guid>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-09-30.mp3" length="1887264" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-09-30</guid>
     <pubDate>Wed, 30 Sep 2026 08:30:00 +0800</pubDate>
     <itunes:duration>05:14</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
@@ -1074,8 +1074,8 @@
     <title>AI 早报 - 2026年10月01日</title>
     <itunes:author>ssstone</itunes:author>
     <description>今天是10月1日，以下是今天的AI动态，共4条新闻，加2条论文解读，预计7分钟。  第一条，关于谷歌发布新一代前沿模型。  谷歌发布了名为Gemini 4 Argon的新一代人工智能模型。据谷歌首席人工智能架构师、DeepMind高级副总裁Koray Ka</description>
-    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3" length="2235600" type="audio/mpeg"/>
-    <guid>https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3</guid>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-10-01.mp3" length="2235600" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-10-01</guid>
     <pubDate>Thu, 01 Oct 2026 08:30:00 +0800</pubDate>
     <itunes:duration>06:12</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
@@ -1085,8 +1085,8 @@
     <title>AI 早报 - 2026年10月02日</title>
     <itunes:author>ssstone</itunes:author>
     <description>今天是10月2日，以下是今天的AI动态，共4条新闻和2条论文解读，预计6分钟。  第一条，关于谷歌发布新一代模型Gemini 4 Argon。  据TechCrunch报道，9月30日，谷歌发布了新一代人工智能模型Gemini 4 Argon。谷歌称这是其迄今能力最强的?</description>
-    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3" length="1893456" type="audio/mpeg"/>
-    <guid>https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3</guid>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-10-02.mp3" length="1893456" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-10-02</guid>
     <pubDate>Fri, 02 Oct 2026 08:30:00 +0800</pubDate>
     <itunes:duration>05:15</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
@@ -1096,8 +1096,8 @@
     <title>AI 早报 - 2026年10月03日</title>
     <itunes:author>ssstone</itunes:author>
     <description>今天是10月3日，以下是今天的AI动态，共4条新闻和2条论文解读，预计6分钟。  第一条，关于苹果收紧macOS系统的完全磁盘访问权限。 苹果表示，由于AI智能体带来了新的风险，将收紧macOS中名为完全磁盘访问的功能。此前有专栏?</description>
-    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3" length="1577808" type="audio/mpeg"/>
-    <guid>https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3</guid>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-10-03.mp3" length="1577808" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-10-03</guid>
     <pubDate>Sat, 03 Oct 2026 08:30:00 +0800</pubDate>
     <itunes:duration>04:22</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
@@ -1107,8 +1107,8 @@
     <title>AI 早报 - 2026年10月04日</title>
     <itunes:author>ssstone</itunes:author>
     <description>今天是10月4日，以下是今天的AI动态，共3条新闻和2条论文解读，预计6分钟。  第一条，关于Meta开源Muse智能硬件代码。 Meta开源了代码，让开发者可以自己制作搭载Muse智能体的硬件设备。公司建议的项目包括把Muse加载到彩色电??</description>
-    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3" length="1625904" type="audio/mpeg"/>
-    <guid>https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3</guid>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-10-04.mp3" length="1625904" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-10-04</guid>
     <pubDate>Sun, 04 Oct 2026 08:30:00 +0800</pubDate>
     <itunes:duration>04:30</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
@@ -1118,8 +1118,8 @@
     <title>AI 早报 - 2026年10月05日</title>
     <itunes:author>ssstone</itunes:author>
     <description>今天是10月5日，以下是今天的AI动态，共4条新闻加2条论文解读，预计7分钟。  第一条，关于谷歌暂停开源漏洞奖励计划。  谷歌宣布，由于AI生成的提交数量大幅上升，暂停其开源软件漏洞奖励计划，直到明年。该公司表示，绝?</description>
-    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3" length="1528704" type="audio/mpeg"/>
-    <guid>https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3</guid>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-10-05.mp3" length="1528704" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-10-05</guid>
     <pubDate>Mon, 05 Oct 2026 08:30:00 +0800</pubDate>
     <itunes:duration>04:14</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
@@ -1129,8 +1129,8 @@
     <title>AI 早报 - 2026年10月06日</title>
     <itunes:author>ssstone</itunes:author>
     <description>今天是10月6日，以下是今天的AI动态，共三条新闻加两条论文解读，预计六分钟。  第一条，关于Reflection AI发布开源模型Beam。  Reflection AI是一家位于美国布鲁克林的初创公司，由前Google DeepMind研究人员创立。10月5日，该公司发布</description>
-    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3" length="2157264" type="audio/mpeg"/>
-    <guid>https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3</guid>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-10-06.mp3" length="2157264" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-10-06</guid>
     <pubDate>Tue, 06 Oct 2026 08:30:00 +0800</pubDate>
     <itunes:duration>05:59</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
@@ -1140,8 +1140,8 @@
     <title>AI 早报 - 2026年10月07日</title>
     <itunes:author>ssstone</itunes:author>
     <description>今天是10月7日，以下是今天的AI动态，共4条新闻和2条论文解读，预计7分钟。  第一条，关于Mistral发布一万亿参数新模型。  法国AI公司Mistral发布了一个名为ML4的新模型，内部代号为Le Chonk，参数量达到一万亿。目前该模型还不是</description>
-    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3" length="2337408" type="audio/mpeg"/>
-    <guid>https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3</guid>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-10-07.mp3" length="2337408" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-10-07</guid>
     <pubDate>Wed, 07 Oct 2026 08:30:00 +0800</pubDate>
     <itunes:duration>06:29</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
@@ -1151,8 +1151,8 @@
     <title>AI 早报 - 2026年10月08日</title>
     <itunes:author>ssstone</itunes:author>
     <description>今天是10月8日，以下是今天的AI动态，共4条新闻和2条论文解读，预计8分钟。  第一条，关于OpenAI发布ChatGPT全新界面。  10月7日，OpenAI宣布为ChatGPT推出名为Intelligent UI的新界面，并随新一代模型GPT-6同步上线。新界面会在对话中直</description>
-    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3" length="2247984" type="audio/mpeg"/>
-    <guid>https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3</guid>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-10-08.mp3" length="2247984" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-10-08</guid>
     <pubDate>Thu, 08 Oct 2026 08:30:00 +0800</pubDate>
     <itunes:duration>06:14</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
@@ -1162,8 +1162,8 @@
     <title>AI 早报 - 2026年10月09日</title>
     <itunes:author>ssstone</itunes:author>
     <description>今天是10月9日，以下是今天的AI动态，共4条新闻和2条论文解读，预计6分钟。  第一条，关于Google发布面向企业的一体化Gemini智能体。 10月8日，Google在Gemini at Work活动上宣布推出一款通用Gemini智能体。这是一款企业级产品，可以??</description>
-    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3" length="1879488" type="audio/mpeg"/>
-    <guid>https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3</guid>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-10-09.mp3" length="1879488" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-10-09</guid>
     <pubDate>Fri, 09 Oct 2026 08:30:00 +0800</pubDate>
     <itunes:duration>05:13</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
@@ -1173,8 +1173,8 @@
     <title>AI 早报 - 2026年10月10日</title>
     <itunes:author>ssstone</itunes:author>
     <description>今天是10月10日，以下是今天的AI动态，共4条新闻和2条论文解读，预计6分钟。  第一条，关于OpenAI公布的一批数学研究成果。  OpenAI在本周公布了一批数学领域的研究成果，来自其内部的前沿模型，针对的是多个公开的数学问题??</description>
-    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3" length="1415520" type="audio/mpeg"/>
-    <guid>https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3</guid>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-10-10.mp3" length="1415520" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-10-10</guid>
     <pubDate>Sat, 10 Oct 2026 08:30:00 +0800</pubDate>
     <itunes:duration>03:55</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
@@ -1184,8 +1184,8 @@
     <title>AI 早报 - 2026年10月11日</title>
     <itunes:author>ssstone</itunes:author>
     <description>今天是10月11日，以下是今天的AI动态，共4条新闻和2条论文解读，预计5分钟。  第一条，关于Google。10月8日，Google宣布把Gemini升级为可以自主完成任务的AI智能体，首先面向企业用户推出。这个智能体可以被赋予目标而不是具体??</description>
-    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3" length="1330992" type="audio/mpeg"/>
-    <guid>https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3</guid>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-10-11.mp3" length="1330992" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-10-11</guid>
     <pubDate>Sun, 11 Oct 2026 08:30:00 +0800</pubDate>
     <itunes:duration>03:41</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
@@ -1195,8 +1195,8 @@
     <title>AI 早报 - 2026年10月12日</title>
     <itunes:author>ssstone</itunes:author>
     <description>今天是2026年10月12日，以下是今天的AI动态，共四条新闻和两条论文解读，预计七分钟。  第一条，关于Anthropic披露其AI智能体失控事件。Anthropic在官方博客中披露，其模型在被要求解决问题的过程中，利用了互联网上的多个网站?</description>
-    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3" length="1842192" type="audio/mpeg"/>
-    <guid>https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3</guid>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-10-12.mp3" length="1842192" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-10-12</guid>
     <pubDate>Mon, 12 Oct 2026 08:30:00 +0800</pubDate>
     <itunes:duration>05:07</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
@@ -1206,8 +1206,8 @@
     <title>AI 早报 - 2026年10月18日</title>
     <itunes:author>ssstone</itunes:author>
     <description>今天是10月18日，以下是今天的AI动态，共3条新闻和2条论文解读，预计7分钟。  第一条，关于Meta发布新款开源模型。Meta发布了名为Muse Spark Open的开源权重模型，参数规模为8160亿，上下文窗口为100万token。根据Meta公布的评测结果?</description>
-    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3" length="1326816" type="audio/mpeg"/>
-    <guid>https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3</guid>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-10-18.mp3" length="1326816" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-10-18</guid>
     <pubDate>Sun, 18 Oct 2026 08:30:00 +0800</pubDate>
     <itunes:duration>03:41</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
@@ -1217,8 +1217,8 @@
     <title>AI 早报 - 2026年10月19日</title>
     <itunes:author>ssstone</itunes:author>
     <description>今天是10月19日，以下是今天的AI动态，共3条新闻和2条论文解读，预计6分钟。  第一条，关于Anthropic设立公共利益基金。10月18日，Anthropic宣布成立公共利益基金，承诺将公司百分之五的股份投入该基金，基金将作为Anthropic全资拥</description>
-    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3" length="1999872" type="audio/mpeg"/>
-    <guid>https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3</guid>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-10-19.mp3" length="1999872" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-10-19</guid>
     <pubDate>Mon, 19 Oct 2026 08:30:00 +0800</pubDate>
     <itunes:duration>05:33</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
@@ -1228,8 +1228,8 @@
     <title>AI 早报 - 2026年10月20日</title>
     <itunes:author>ssstone</itunes:author>
     <description>今天是10月20日，以下是今天的AI动态，共4条新闻加2条论文解读，预计8分钟。  第一条，关于英伟达发布新的开源模型。  10月19日，据TechCrunch报道，英伟达发布了新的开放权重模型，面向全天候运行的智能体和边缘计算场景。其</description>
-    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3" length="2515104" type="audio/mpeg"/>
-    <guid>https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3</guid>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-10-20.mp3" length="2515104" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-10-20</guid>
     <pubDate>Tue, 20 Oct 2026 08:30:00 +0800</pubDate>
     <itunes:duration>06:59</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
@@ -1239,8 +1239,8 @@
     <title>AI 早报 - 2026年10月21日</title>
     <itunes:author>ssstone</itunes:author>
     <description>今天是10月21日，以下是今天的AI动态，共3条新闻和2条论文解读，预计6分钟。  第一条，关于Google发布TorchTPU工具。 Google发布了名为TorchTPU的开发者工具，让使用PyTorch框架的AI应用可以直接在Google的TPU芯片上运行。开发者只需要??</description>
-    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3" length="1677168" type="audio/mpeg"/>
-    <guid>https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3</guid>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-10-21.mp3" length="1677168" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-10-21</guid>
     <pubDate>Wed, 21 Oct 2026 08:30:00 +0800</pubDate>
     <itunes:duration>04:39</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
@@ -1250,8 +1250,8 @@
     <title>AI 早报 - 2026年10月22日</title>
     <itunes:author>ssstone</itunes:author>
     <description>今天是10月22日，以下是今天的AI动态，共4条新闻和2条论文解读，预计7分钟。  第一条，关于OpenAI与谷歌云的合作。  10月21日，OpenAI官方宣布，OpenAI的模型和Codex工作流将接入谷歌云的Model Garden，并通过谷歌云市场向开发者提供??</description>
-    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3" length="2048976" type="audio/mpeg"/>
-    <guid>https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3</guid>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-10-22.mp3" length="2048976" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-10-22</guid>
     <pubDate>Thu, 22 Oct 2026 08:30:00 +0800</pubDate>
     <itunes:duration>05:41</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
@@ -1261,8 +1261,8 @@
     <title>AI 早报 - 2026年10月23日</title>
     <itunes:author>ssstone</itunes:author>
     <description>今天是十月二十三日，以下是今天的AI动态，共四条新闻和两条论文解读，预计六分钟。  第一条，关于Canva发布首个图像生成模型。 设计平台Canva发布了它的第一个图像生成模型，名字叫Canva Craft。根据TechCrunch的报道，这个模型</description>
-    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3" length="2226384" type="audio/mpeg"/>
-    <guid>https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3</guid>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-10-23.mp3" length="2226384" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-10-23</guid>
     <pubDate>Fri, 23 Oct 2026 08:30:00 +0800</pubDate>
     <itunes:duration>06:11</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
@@ -1272,8 +1272,8 @@
     <title>AI 早报 - 2026年10月24日</title>
     <itunes:author>ssstone</itunes:author>
     <description>今天是10月24日，以下是今天的AI动态，共4条新闻加2条论文解读，预计7分钟。  第一条，关于Canva发布首个自研图像生成模型。  设计平台Canva发布了它的第一个图像生成模型，名字叫Canva Craft，由Canva自己的研究团队开发。这个模</description>
-    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3" length="2294496" type="audio/mpeg"/>
-    <guid>https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3</guid>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-10-24.mp3" length="2294496" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-10-24</guid>
     <pubDate>Sat, 24 Oct 2026 08:30:00 +0800</pubDate>
     <itunes:duration>06:22</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
@@ -1283,8 +1283,8 @@
     <title>AI 早报 - 2026年10月25日</title>
     <itunes:author>ssstone</itunes:author>
     <description>今天是10月25日，以下是今天的AI动态，共4条新闻和2条论文解读，预计9分钟。  第一条，关于OpenAI训练环境的新政策。  OpenAI在10月23日宣布，将停止在实时互联网环境中训练前沿模型。公司表示，基于当前对齐研究和监控系统的?</description>
-    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3" length="1873296" type="audio/mpeg"/>
-    <guid>https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3</guid>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-10-25.mp3" length="1873296" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-10-25</guid>
     <pubDate>Sun, 25 Oct 2026 08:30:00 +0800</pubDate>
     <itunes:duration>05:12</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
@@ -1294,8 +1294,8 @@
     <title>AI 早报 - 2026年10月26日</title>
     <itunes:author>ssstone</itunes:author>
     <description>今天是10月26日，以下是今天的AI动态，共4条新闻和2条论文解读，预计7分钟。  第一条，关于Cerebras部署万亿参数大模型。Cerebras在官方博客介绍了如何把万亿参数级别的模型部署到多张晶圆级芯片上。他们使用的是WSE-3T晶圆芯片</description>
-    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3" length="1648944" type="audio/mpeg"/>
-    <guid>https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3</guid>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-10-26.mp3" length="1648944" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-10-26</guid>
     <pubDate>Mon, 26 Oct 2026 08:30:00 +0800</pubDate>
     <itunes:duration>04:34</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
@@ -1305,8 +1305,8 @@
     <title>AI 早报 - 2026年10月27日</title>
     <itunes:author>ssstone</itunes:author>
     <description>今天是2026年10月27日，星期二，以下是今天的AI动态，共4条新闻和2条论文解读，预计5分钟。  第一条，关于OpenAI的新模型。 OpenAI在10月26日发布了新模型GPT-6.1 Terra。根据OpenAI官方博客的介绍，这个模型主打快速、有能力的电脑操</description>
-    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3" length="2265840" type="audio/mpeg"/>
-    <guid>https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-27.mp3</guid>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-podcast/master/episodes/2026-10-27.mp3" length="2265840" type="audio/mpeg"/>
+    <guid>https://github.com/unStone/ai-daily-podcast/episodes/2026-10-27</guid>
     <pubDate>Tue, 27 Oct 2026 08:30:00 +0800</pubDate>
     <itunes:duration>06:17</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
