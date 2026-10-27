@@ -1312,5 +1312,16 @@
     <itunes:explicit>false</itunes:explicit>
   </item>
 
+  <item>
+    <title>AI 早报 - 2026年10月28日</title>
+    <itunes:author>ssstone</itunes:author>
+    <description>今天是10月28日，以下是今天的AI动态，共4条新闻和2条论文解读，预计6分钟。  第一条，关于谷歌发布Genie 4世界模型。谷歌发布了新一代世界模型Genie 4，生成的画面比上一代更真实，并且加入了音频。用户可以实时用自然语言??</description>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-28.mp3" length="1275984" type="audio/mpeg"/>
+    <guid>https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-28.mp3</guid>
+    <pubDate>Wed, 28 Oct 2026 08:30:00 +0800</pubDate>
+    <itunes:duration>03:32</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+
 </channel>
 </rss>
