@@ -1334,5 +1334,16 @@
     <itunes:explicit>false</itunes:explicit>
   </item>
 
+  <item>
+    <title>AI 早报 - 2026年10月30日</title>
+    <itunes:author>ssstone</itunes:author>
+    <description>今天是10月30日，以下是今天的AI动态，共4条新闻和2条论文解读，预计5分钟。  第一条，关于Google发布Gemini 4 Carbon模型。 Google在10月28日发布了最新的前沿模型Gemini 4 Carbon。根据Google官方介绍，这款模型在编程、智能体任务和网??</description>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-30.mp3" length="1762992" type="audio/mpeg"/>
+    <guid>https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-10-30.mp3</guid>
+    <pubDate>Fri, 30 Oct 2026 08:30:00 +0800</pubDate>
+    <itunes:duration>04:53</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+
 </channel>
 </rss>
