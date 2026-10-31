@@ -1356,5 +1356,16 @@
     <itunes:explicit>false</itunes:explicit>
   </item>
 
+  <item>
+    <title>AI 早报 - 2026年11月01日</title>
+    <itunes:author>ssstone</itunes:author>
+    <description>今天是11月1日，以下是今天的AI动态，共3条新闻和2条论文解读，预计7分钟。  第一条，关于Google的太空AI数据中心项目。  Google在10月30日宣布，其搭载AI芯片的卫星首次从太空传回了模型生成的内容。这颗名为Project Suncatcher的卫?</description>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-11-01.mp3" length="1667232" type="audio/mpeg"/>
+    <guid>https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-11-01.mp3</guid>
+    <pubDate>Sun, 01 Nov 2026 08:30:00 +0800</pubDate>
+    <itunes:duration>04:37</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+
 </channel>
 </rss>
