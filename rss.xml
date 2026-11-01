@@ -1367,5 +1367,16 @@
     <itunes:explicit>false</itunes:explicit>
   </item>
 
+  <item>
+    <title>AI 早报 - 2026年11月02日</title>
+    <itunes:author>ssstone</itunes:author>
+    <description>今天是11月2日，以下是今天的AI动态，共3条新闻和2条论文解读，预计6分钟。  第一条，关于谷歌的太空AI数据中心项目。 谷歌宣布，其Project Suncatcher实验卫星搭载的TPU芯片已经在太空中成功启动。卫星上运行的是一个Gemma 4模型?</description>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-11-02.mp3" length="1595376" type="audio/mpeg"/>
+    <guid>https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-11-02.mp3</guid>
+    <pubDate>Mon, 02 Nov 2026 08:30:00 +0800</pubDate>
+    <itunes:duration>04:25</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+
 </channel>
 </rss>
