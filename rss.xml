@@ -1378,5 +1378,16 @@
     <itunes:explicit>false</itunes:explicit>
   </item>
 
+  <item>
+    <title>AI 早报 - 2026年11月03日</title>
+    <itunes:author>ssstone</itunes:author>
+    <description>今天是11月3日，以下是今天的AI动态，共4条新闻和2条论文解读，预计7分钟。  第一条，关于OpenAI发布新的AI评测基准LifeVal。 OpenAI在11月2日发布了LifeVal基准，用来衡量AI在帮助人们完成日常任务方面的表现。这些任务包括找托儿?</description>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-11-03.mp3" length="1582848" type="audio/mpeg"/>
+    <guid>https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-11-03.mp3</guid>
+    <pubDate>Tue, 03 Nov 2026 08:30:00 +0800</pubDate>
+    <itunes:duration>04:23</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+
 </channel>
 </rss>
