@@ -1389,5 +1389,16 @@
     <itunes:explicit>false</itunes:explicit>
   </item>
 
+  <item>
+    <title>AI 早报 - 2026年11月04日</title>
+    <itunes:author>ssstone</itunes:author>
+    <description>今天是11月4日，以下是今天的AI动态，共4条新闻加2条论文解读，预计5分钟。  第一条，关于OpenAI搜索业务的最新数据。OpenAI宣布，ChatGPT的搜索查询量目前已经达到谷歌搜索量的百分之二十。OpenAI的搜索业务负责人表示，在许多?</description>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-11-04.mp3" length="1773072" type="audio/mpeg"/>
+    <guid>https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-11-04.mp3</guid>
+    <pubDate>Wed, 04 Nov 2026 08:30:00 +0800</pubDate>
+    <itunes:duration>04:55</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+
 </channel>
 </rss>
