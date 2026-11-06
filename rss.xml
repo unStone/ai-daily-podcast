@@ -1422,5 +1422,16 @@
     <itunes:explicit>false</itunes:explicit>
   </item>
 
+  <item>
+    <title>AI 早报 - 2026年11月07日</title>
+    <itunes:author>ssstone</itunes:author>
+    <description>今天是11月7日，以下是今天的AI动态，共3条新闻和2条论文解读，预计6分钟。  第一条，关于OpenAI发布网络安全模型。 OpenAI在11月5日发布了名为GPT-6 Cyber的网络安全模型。根据OpenAI官方博客的介绍，这个模型用于发现可被利用的??</description>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-11-07.mp3" length="1399248" type="audio/mpeg"/>
+    <guid>https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-11-07.mp3</guid>
+    <pubDate>Sat, 07 Nov 2026 08:30:00 +0800</pubDate>
+    <itunes:duration>03:53</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+
 </channel>
 </rss>
