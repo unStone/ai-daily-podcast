@@ -1433,5 +1433,16 @@
     <itunes:explicit>false</itunes:explicit>
   </item>
 
+  <item>
+    <title>AI 早报 - 2026年11月08日</title>
+    <itunes:author>ssstone</itunes:author>
+    <description>今天是11月8日，以下是今天的AI动态，共4条新闻和2条论文解读，预计7分钟。  第一条，关于AI安全研究机构METR发布的一份对Anthropic研发流程的内部调查报告。  METR对Anthropic进行了为期11周的调查。报告显示，Anthropic的模型改进速</description>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-11-08.mp3" length="1852560" type="audio/mpeg"/>
+    <guid>https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-11-08.mp3</guid>
+    <pubDate>Sun, 08 Nov 2026 08:30:00 +0800</pubDate>
+    <itunes:duration>05:08</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+
 </channel>
 </rss>
