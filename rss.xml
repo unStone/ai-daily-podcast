@@ -1455,5 +1455,16 @@
     <itunes:explicit>false</itunes:explicit>
   </item>
 
+  <item>
+    <title>AI 早报 - 2026年11月10日</title>
+    <itunes:author>ssstone</itunes:author>
+    <description>今天是11月10日，以下是今天的AI动态，共3条新闻和2条论文解读，预计7分钟。  第一条，关于Anthropic发布两款新模型。Anthropic于11月9日发布了Claude Fable 5.2和Claude Mythos 5.2。公司表示，新模型在编程、推理和视觉任务上相比5.1版本?</description>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-11-10.mp3" length="1361520" type="audio/mpeg"/>
+    <guid>https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-11-10.mp3</guid>
+    <pubDate>Tue, 10 Nov 2026 08:30:00 +0800</pubDate>
+    <itunes:duration>03:46</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+
 </channel>
 </rss>
