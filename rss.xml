@@ -1488,5 +1488,16 @@
     <itunes:explicit>false</itunes:explicit>
   </item>
 
+  <item>
+    <title>AI 早报 - 2026年11月13日</title>
+    <itunes:author>ssstone</itunes:author>
+    <description>今天是11月13日，以下是今天的AI动态，共4条新闻和2条论文解读，预计6分钟。  第一条，关于英伟达的管理层变动。英伟达董事会周四宣布，公司联合创始人、担任首席执行官33年的黄仁勋，辞去总裁、首席执行官及董事会职务??</description>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-11-13.mp3" length="1836432" type="audio/mpeg"/>
+    <guid>https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-11-13.mp3</guid>
+    <pubDate>Fri, 13 Nov 2026 08:30:00 +0800</pubDate>
+    <itunes:duration>05:06</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+
 </channel>
 </rss>
