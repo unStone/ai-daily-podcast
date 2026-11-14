@@ -1510,5 +1510,16 @@
     <itunes:explicit>false</itunes:explicit>
   </item>
 
+  <item>
+    <title>AI 早报 - 2026年11月15日</title>
+    <itunes:author>ssstone</itunes:author>
+    <description>今天是11月15日，以下是今天的AI动态，共4条新闻和2条论文解读，预计6分钟。  第一条，关于OpenAI推出ChatGPT Wallet。 11月13日，OpenAI宣布推出ChatGPT Wallet功能。用户在钱包中绑定信用卡之后，ChatGPT平台上的Dots智能体就可以根据用??</description>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-11-15.mp3" length="1998576" type="audio/mpeg"/>
+    <guid>https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-11-15.mp3</guid>
+    <pubDate>Sun, 15 Nov 2026 08:30:00 +0800</pubDate>
+    <itunes:duration>05:33</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+
 </channel>
 </rss>
