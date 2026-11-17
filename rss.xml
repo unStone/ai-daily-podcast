@@ -1543,5 +1543,16 @@
     <itunes:explicit>false</itunes:explicit>
   </item>
 
+  <item>
+    <title>AI 早报 - 2026年11月18日</title>
+    <itunes:author>ssstone</itunes:author>
+    <description>今天是11月18日，以下是今天的AI动态，共4条新闻和2条论文解读，预计7分钟。  第一条，关于OpenAI发布新一代模型。OpenAI在11月17日发布了两款新模型，GPT-6.2 Astra和GPT-6.2 Sol，已通过ChatGPT Work、Codex和API向用户开放。OpenAI表示，这?</description>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-11-18.mp3" length="1846944" type="audio/mpeg"/>
+    <guid>https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-11-18.mp3</guid>
+    <pubDate>Wed, 18 Nov 2026 08:30:00 +0800</pubDate>
+    <itunes:duration>05:07</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+
 </channel>
 </rss>
