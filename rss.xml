@@ -1554,5 +1554,16 @@
     <itunes:explicit>false</itunes:explicit>
   </item>
 
+  <item>
+    <title>AI 早报 - 2026年11月19日</title>
+    <itunes:author>ssstone</itunes:author>
+    <description>今天是11月19日，以下是今天的AI动态，共4条新闻和2条论文解读，预计6分钟。  第一条，关于AI药物研发公司Isomorphic Labs的融资消息。  Isomorphic Labs是2021年从Google DeepMind拆分出来的AI药物研发公司。11月17日，这家公司宣布完成了50</description>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-11-19.mp3" length="2109600" type="audio/mpeg"/>
+    <guid>https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-11-19.mp3</guid>
+    <pubDate>Thu, 19 Nov 2026 08:30:00 +0800</pubDate>
+    <itunes:duration>05:51</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+
 </channel>
 </rss>
