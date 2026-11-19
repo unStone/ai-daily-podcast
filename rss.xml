@@ -1565,5 +1565,16 @@
     <itunes:explicit>false</itunes:explicit>
   </item>
 
+  <item>
+    <title>AI 早报 - 2026年11月20日</title>
+    <itunes:author>ssstone</itunes:author>
+    <description>今天是11月20日，以下是今天的AI动态，共3条新闻和2条论文解读，预计6分钟。  第一条，关于Anthropic上市。11月19日，Anthropic在纳斯达克开始公开交易，股票代码为ANT。开盘价为每股111.50美元，高于发行价每股83美元。按发行价计?</description>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-11-20.mp3" length="1149120" type="audio/mpeg"/>
+    <guid>https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-11-20.mp3</guid>
+    <pubDate>Fri, 20 Nov 2026 08:30:00 +0800</pubDate>
+    <itunes:duration>03:11</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+
 </channel>
 </rss>
