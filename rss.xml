@@ -1598,5 +1598,16 @@
     <itunes:explicit>false</itunes:explicit>
   </item>
 
+  <item>
+    <title>AI 早报 - 2026年11月23日</title>
+    <itunes:author>ssstone</itunes:author>
+    <description>今天是11月23日，以下是今天的AI动态，共4条新闻和2条论文解读，预计6分钟。  第一条，关于OpenAI公开各代模型的预训练困惑度数据。 11月22日，OpenAI在官方博客发布文章，公开了公司内部模型的预训练对数困惑度数据。困惑度??</description>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-11-23.mp3" length="1622304" type="audio/mpeg"/>
+    <guid>https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-11-23.mp3</guid>
+    <pubDate>Mon, 23 Nov 2026 08:30:00 +0800</pubDate>
+    <itunes:duration>04:30</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+
 </channel>
 </rss>
