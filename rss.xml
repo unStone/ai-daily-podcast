@@ -1609,5 +1609,16 @@
     <itunes:explicit>false</itunes:explicit>
   </item>
 
+  <item>
+    <title>AI 早报 - 2026年11月24日</title>
+    <itunes:author>ssstone</itunes:author>
+    <description>今天是11月24日，以下是今天的AI动态，共3条新闻和2条论文解读，预计6分钟。  第一条，关于Anthropic发布Claude Ship编程助手新功能。Anthropic宣布推出名为Claude Ship的产品，Claude现在可以自动审查、修复并批准代码拉取请求。其中，</description>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-11-24.mp3" length="1612944" type="audio/mpeg"/>
+    <guid>https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-11-24.mp3</guid>
+    <pubDate>Tue, 24 Nov 2026 08:30:00 +0800</pubDate>
+    <itunes:duration>04:28</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+
 </channel>
 </rss>
