@@ -1620,5 +1620,16 @@
     <itunes:explicit>false</itunes:explicit>
   </item>
 
+  <item>
+    <title>AI 早报 - 2026年11月25日</title>
+    <itunes:author>ssstone</itunes:author>
+    <description>今天是11月25日，以下是今天的AI动态，共4条新闻和2条论文解读，预计8分钟。  第一条，关于Anthropic发布Claude Ship。Anthropic推出了一组新工具，让AI智能体可以审查、修复并批准代码变更。其中代码审查功能已经正式可用，另外两</description>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-11-25.mp3" length="1756080" type="audio/mpeg"/>
+    <guid>https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-11-25.mp3</guid>
+    <pubDate>Wed, 25 Nov 2026 08:30:00 +0800</pubDate>
+    <itunes:duration>04:52</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+
 </channel>
 </rss>
