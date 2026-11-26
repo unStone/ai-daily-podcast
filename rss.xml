@@ -1642,5 +1642,16 @@
     <itunes:explicit>false</itunes:explicit>
   </item>
 
+  <item>
+    <title>AI 早报 - 2026年11月27日</title>
+    <itunes:author>ssstone</itunes:author>
+    <description>今天是11月27日，以下是今天的AI动态，共4条新闻和2条论文解读，预计8分钟。  第一条，关于一项新基准测试显示现有AI智能体难以可靠完成日常任务。 一项名为ShellBench的新基准测试由OpenClaw基金会、Parsewave、Hugging Face、Red Hat和</description>
+    <enclosure url="https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-11-27.mp3" length="2312640" type="audio/mpeg"/>
+    <guid>https://raw.githubusercontent.com/unStone/ai-daily-audio-2026/master/episodes/2026-11-27.mp3</guid>
+    <pubDate>Fri, 27 Nov 2026 08:30:00 +0800</pubDate>
+    <itunes:duration>06:25</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+
 </channel>
 </rss>
